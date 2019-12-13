@@ -1,5 +1,5 @@
 ---
-title: SKill Analysis
+title: Skill Analysis
 ---
 
 <section>

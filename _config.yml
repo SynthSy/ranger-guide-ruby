@@ -34,10 +34,18 @@ permalink: /:title/
 #include:
   #-_pages
   
-collections: 
-    _index: 
+collections:
+    index:
         output: true
-
+        order:
+         - banner.md
+         - intro.md
+         - overview.md
+         - photonarts.md
+         - classcombination.md
+         - gearingup.md
+         - skillanalysis.md
+      
 sass:
     load_paths:
         - _sass
