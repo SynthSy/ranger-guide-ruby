@@ -1,0 +1,170 @@
+/* Global CSS */
+
+a, a:hover {
+    text-decoration: none;
+  }
+
+  a:hover {
+    opacity: 0.5;
+  }
+  
+  /* Navigational Bar */
+  
+  .navbar-logo {
+    margin-right: 1em;
+  }
+  
+  /* Body */
+  
+  body {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.4;
+  }
+  
+  hr {
+    color: rgba(251, 249, 249, 0.431);
+    border-top: 1px solid
+  }
+  
+  /* Headings */
+  
+  h1, h2, h3, h4, h5 {
+    font-family: "Roboto Slab", sans-serif;
+  }
+  
+  nav[data-toggle='toc'] {
+    top: 42px;
+  }
+  
+  /* Rows */
+  
+  .gearing-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .subclass-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  
+  /* Columns */
+  
+  .gearing-topics, .subclass-topics { 
+    flex-direction: row;
+  }
+  
+  .gearing-topics > h2 {
+    border-left: 5px solid #bd255f;
+    padding-left: 5px;
+    font-size: 1.5rem;
+  }
+  
+  .subclass-topics > h2 {
+    font-size: 1.5rem;
+  }
+  
+  .subclass-topics > h2 > a > img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  /* Sections */
+  
+  section {
+    display: block;
+  }
+  
+  section > h1 {
+    border-left: 10px solid #3d5fce;
+    padding-left: 5px;
+    font-size: 1.5rem;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+  }
+  
+  /* Jumbotron */
+  
+  .jumbotron {
+    margin-top: 1em;
+    background-image: url("../img/banner/nsfwbanner.jpg");
+    background-color: #17234E;
+    background-repeat: no-repeat;
+    background-position: 0% 5%;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  
+  
+  .jumbotronBox {
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    font-size: 0.5em;
+    width: 33%;
+    height: auto;
+    padding: 1em;
+  }
+  
+  h1.display-4 {
+    font-size: 3rem;
+  }
+  
+  .jumboHeadline {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    width: 75%;
+  }
+  
+  
+  /* small screens */
+  
+  @media (max-width: 768px) {
+    /* override stickyness so that the navigation does not follow scrolling */
+    nav[data-toggle='toc'] {
+      margin-bottom: 42px;
+      position: static;
+    }
+  
+    .gearing-topics, .subclass-topics { 
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    h1.display-4 {
+      font-size: 1rem;
+    }
+  
+    .jumbotronBox {
+      text-align: center;
+      width: 50%;
+      height: 100%;
+      padding: 1em;
+    }
+  
+    /* PICK ONE */
+    /* don't expand nested items, which pushes down the rest of the page when navigating */
+    nav[data-toggle='toc'] .nav .active .nav {
+      display: none;
+    }
+    /* alternatively, if you *do* want the second-level navigation to be shown (as seen on this page on mobile), use this */
+    /*
+    nav[data-toggle='toc'] .nav .nav {
+      display: block;
+    }
+    */
+  }
+  @media (max-width: 990px) {
+    .jumbotron {
+      background-position: 0% 0%;
+      background-attachment: fixed;
+    }
+    h1.display-4 {
+      font-size: 2rem;
+    }
+  }
