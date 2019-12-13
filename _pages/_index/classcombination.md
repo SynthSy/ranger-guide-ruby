@@ -1,5 +1,9 @@
+---
+title: Class Combinations
+---
+
 <section>
-	<h1><a href="#">Class Combinations</a></h1>
+	<h1><a href="#">{{ page.title }}</a></h1>
 	<p>Describes all possible subclass choices for Ranger; some subclasses includes a further analysis on skill interactions with Ranger.</p>
 	<div class="subclass-row">
 		<div class="subclass-topics">

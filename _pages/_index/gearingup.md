@@ -1,5 +1,9 @@
+---
+title: Gearing Up
+---
+
 <section>
-	<h1><a href="#">Gearing Up</a></h1>
+	<h1><a href="#">{{ page.title }}</a></h1>
 		<p>An overview on important Ranger gear to aim for.</p>
 		<div class="gearing-row">
 			<div class="gearing-topics">
