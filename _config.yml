@@ -41,10 +41,10 @@ collections:
          - banner.md
          - intro.md
          - overview.md
+         - skillanalysis.md
          - photonarts.md
          - classcombination.md
          - gearingup.md
-         - skillanalysis.md
       
 sass:
     load_paths:
