@@ -11,7 +11,7 @@
             {% else %}
               class="nav-item"
             {% endif %}>
-          <a href="{{ item.link }}" class="nav-link">
+          <a href="{{ site.baseurl }}{{ item.link }}" class="nav-link">
             {{ item.name }}
             {% if page.url == item.link %}
              <span class="sr-only">(current)</span>
