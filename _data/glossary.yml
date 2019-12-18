@@ -1,3 +1,3 @@
 weakbullet:
-    <img src="{{'assets/img/icons/weakbullet.png' | relative_url }}"><p>Loads 6 bullets.</p>
+    <img src='assets/img/icons/weakbullet.png'><p>Loads 6 bullets.</p>
 
