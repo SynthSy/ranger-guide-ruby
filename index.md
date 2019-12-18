@@ -2,10 +2,11 @@
 layout: default
 title: Home
 ---
+
 <div class="row">
 {% for index in site.index %}
   <div class="col-sm-12">
-	<p>{{ index.content | markdownify }}</p>
+	  {{ index.content | markdownify }}
   </div>
 {% endfor %}
     <div class="col-sm-12">
