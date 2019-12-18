@@ -29,7 +29,7 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 twitter_username: jekyllrb
 github_username:  jekyll
 
-permalink: /:title/
+permalink: /:title:output_ext
 
 #include:
   #-_pages
@@ -45,6 +45,13 @@ collections:
          - photonarts.md
          - classcombination.md
          - gearingup.md
+    overview:
+        output: true
+        order:
+         - overview.md
+         - weaponoverview.md
+         - photonarts.md
+         - skilltree.md
       
 sass:
     load_paths:
