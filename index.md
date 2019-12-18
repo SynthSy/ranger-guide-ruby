@@ -3,12 +3,14 @@ layout: default
 title: Home
 ---
 
-<div class="row">
 {% for index in site.index %}
+<div class="row">
   <div class="col-sm-12">
 	  {{ index.content | markdownify }}
   </div>
+</div>
 {% endfor %}
+<div class="row">
     <div class="col-sm-12">
         <section>
             <h1>Special Thanks</h1>

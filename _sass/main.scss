@@ -10,8 +10,19 @@ a, a:hover {
   
   /* Navigational Bar */
   
+  .navbar .navbar-nav .nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: rgb(32, 35, 46);
+  }
+
+
   .navbar-logo {
     margin-right: 1em;
+  }
+
+  .navbar .nav-item.active .nav-link {
+    background-color: rgba(0,0,0,0.3);
   }
   
   /* Body */
