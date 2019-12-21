@@ -34,24 +34,7 @@ permalink: /:title:output_ext
 #include:
   #-_pages
   
-collections:
-    index:
-        output: true
-        order:
-         - banner.md
-         - intro.md
-         - overview.md
-         - skillanalysis.md
-         - photonarts.md
-         - classcombination.md
-         - gearingup.md
-    overview:
-        output: true
-        order:
-         - overview.md
-         - weaponoverview.md
-         - photonarts.md
-         - skilltree.md
+#collections:
       
 sass:
     load_paths:

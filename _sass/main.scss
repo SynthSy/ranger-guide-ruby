@@ -1,8 +1,9 @@
 /* Global CSS */
 
-a, a:hover {
-    text-decoration: none;
-  }
+  a, a:hover {
+      transition: 0.2s;
+    }
+  
 
   a:hover {
     opacity: 0.5;
@@ -43,6 +44,7 @@ a, a:hover {
   a.tooltip-link {
     color: rgb(255, 255, 255);
     font-weight: 600;
+    text-decoration: underline;
   }
 
   /* Headings */
