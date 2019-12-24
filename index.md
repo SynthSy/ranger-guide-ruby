@@ -2,17 +2,18 @@
 layout: default
 title: Home
 ---
-<div class="col-sm-12">
-    <div class="jumbotron jumbotron-fluid">
-        <div class="container">
-            <div class="jumbotronBox">
-                <h1 class="display-4">Ranger Guide</h1>
-                <hr class="jumboHeadline">
-                <p class="lead">I hate WordPress Edition!</p>
+<div class="row">
+    <div class="col-sm-12">
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <div class="jumbotronBox">
+                    <h1 class="display-4">Ranger Guide</h1>
+                    <hr class="jumboHeadline">
+                    <p class="lead">I hate WordPress Edition!</p>
+            </div>
         </div>
     </div>
 </div>
-
 <div class="row">
     <div class="col-sm-12">
         <section>
