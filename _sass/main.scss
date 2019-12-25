@@ -78,6 +78,7 @@
   
   h1, h2, h3, h4, h5 {
     font-family: "Montserrat", sans-serif;
+    font-weight: 500;
   }
   
   nav[data-toggle='toc'] {
@@ -122,18 +123,28 @@
     max-height: 100%;
   }
   
+  .skill-row {
+      & .col-md-4 > h3 > span {
+        border-bottom: 5px solid #3d5fce;
+      }
+  }
+
   /* Sections */
   
   section {
     display: block;
-  }
-  
-  section > h1 {
-    border-left: 10px solid #3d5fce;
-    padding-left: 5px;
-    font-size: 1.5rem;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+    & > h1 {
+      border-left: 8px solid #3d5fce;
+      padding-left: 5px;
+      font-size: 1.5rem;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+    }
+    & > h2, h3 {
+      border-left: 8px solid #3d5fce;
+      padding-left: 5px;
+      font-size: 1.5rem;
+    }
   }
   
   /* Jumbotron */

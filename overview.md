@@ -17,7 +17,6 @@ title: Overview
   </section>
   </div>
 </div>
-<div class="row">
   <div class="col-sm-12">
   <section>	
       <h3>Weapon Overview</h3>
@@ -62,9 +61,7 @@ title: Overview
       </table>
   <hr>
   </section>
-    </div>
 </div>
-<div class="row">
   <div class="col-sm-12">
     <section>	
       <h3>Photon Arts</h3>
@@ -146,10 +143,6 @@ title: Overview
       <hr>
   </section>
   </div>
-</div>
-
-
-<div class="row">
   <div class="col-sm-12">
         <section>
             <h3>Skill Tree</h3>
@@ -171,34 +164,34 @@ title: Overview
             </thead>
                 <tbody>
                     <tr>
-                        <td><img src="assets/img/icons/weakhit.png"> Weak Hit Advance 1 & 2</td>
+                        <td><img src="assets/img/icons/skilltree/ra/weakhit.png"> Weak Hit Advance 1 & 2</td>
                         <td>Increases your damage when attacking weak points. This synergizes with Weak Bullet and is a large chunk of where your damage come from.
                             Native weakpoints work as well such as enemies with headshot multipliers. </td>
                     </tr>
                     <tr>
-                        <td><img src="assets/img/icons/standingsnipe.png"> Standing Snipe 1 & 2</td>
+                        <td><img src="assets/img/icons/skilltree/ra/standingsnipe.png"> Standing Snipe 1 & 2</td>
                         <td>Needed moreso on rifle than launcher, it's another large increase in your damage when standing still. </td>
                     </tr>
                     <tr>
-                        <td><img src="assets/img/icons/tacticstrap.png"> Tactics Trap, Stun Grenade, Gravity Bomb & Upper Trap</td>
+                        <td><img src="assets/img/icons/skilltree/ra/tacticstrap.png"> Tactics Trap, Stun Grenade, Gravity Bomb & Upper Trap</td>
                         <td>With Tactics Trap allowing traps to regen PP on hit, Stun and Upper becomes on-demand sources of PP regen and help lower your downtime considerably.
                             Gravity Bomb is good crowd control with the ability to suck mobs in. </td>
                     </tr>
                     <tr>
-                        <td><img src="assets/img/icons/moving-shot.png"> Moving Snipe</td>
+                        <td><img src="assets/img/icons/skilltree/ra/moving-shot.png"> Moving Snipe</td>
                         <td>Increases damage when moving. This activates when you walk, jump, fall, etc before an attack.</td>
                     </tr>
                     <tr>
-                        <td><img src="assets/img/icons/weakhit.png"> Sharp Shooter</td>
+                        <td><img src="assets/img/icons/skilltree/ra/weakhit.png"> Sharp Shooter</td>
                         <td>Increases your damage when attacking from a distance: around 2 dive rolls.</td>
                     </tr>
                     <tr>
-                        <td><img src="assets/img/icons/weakbullet.png"> Weak Bullet</td>
+                        <td><img src="assets/img/icons/skilltree/ra/weakbullet.png"> Weak Bullet</td>
                         <td>Loads (up to) 6 bullets that increases the Part Damage Modifier (PDM) by {{ site.data.glossary.weakbullet.value | times: 100 | floor }}%, essentially making that part take {{ site.data.glossary.weakbullet.value | minus: 1 | times: 100 | floor }}% more damage.
                             There is no reason not to take this and max it, but learning how to use it properly has it's own learning curve. </td>
                     </tr>
                     <tr>
-                        <td><img src="assets/img/icons/massive-bullet.png"> PP Save Bullet</td>
+                        <td><img src="assets/img/icons/skilltree/ra/massive-bullet.png"> PP Save Bullet</td>
                         <td>Reduces PP consumption of PAs and Technics by 20% when any bullet is loaded. If a rifle bullet is loaded the effect is only available for rifles, same for launcher. Pretty neat, isn't it?</td>
                     </tr>
                 </tbody>
