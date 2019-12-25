@@ -2,13 +2,14 @@
 layout: default
 title: Overview
 ---
+
 <hr>
 <div class="row">
   <div class="col-sm-12">
     <section>
     <h3 class="title">Overview</h3>
         <p>Rangers are the middle-ranged specialist attackers. They can deal impressive single target damage on foes by focusing on their weak spots, 
-            and provide covering fire by clearing trash mobs with explosives. Their biggest asset, <a href="#" class="tooltip-link" data-toggle="tooltip" title="{{ site.data.glossary.weakbullet }}">Weak Bullet</a>, provides a massive damage enhancement that can quickly destroy bosses, if aimed right.
+            and provide covering fire by clearing trash mobs with explosives. Their biggest asset, <a href="#" class="tooltip-link" data-toggle="tooltip" title="{{ site.data.glossary.weakbullet.description }} Multiplier: {{ site.data.glossary.weakbullet.value }}x">Weak Bullet</a>, provides a massive damage enhancement that can quickly destroy bosses, if aimed right.
                                     If you spot something that is incorrect, send a Pull Request. If you don't know what that is,
             then I guess it's not being corrected now isn't it?</p>
         
@@ -193,7 +194,7 @@ title: Overview
                     </tr>
                     <tr>
                         <td><img src="assets/img/icons/weakbullet.png"> Weak Bullet</td>
-                        <td>Loads (up to) 6 bullets that increases the Part Damage Modifier (PDM) by 120%, essentially making that part take 20% more damage.
+                        <td>Loads (up to) 6 bullets that increases the Part Damage Modifier (PDM) by {{ site.data.glossary.weakbullet.value | times: 100 | floor }}%, essentially making that part take {{ site.data.glossary.weakbullet.value | minus: 1 | times: 100 | floor }}% more damage.
                             There is no reason not to take this and max it, but learning how to use it properly has it's own learning curve. </td>
                     </tr>
                     <tr>

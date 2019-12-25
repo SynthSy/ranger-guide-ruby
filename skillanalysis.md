@@ -48,14 +48,18 @@ title: Skill Analysis
   </div>
 </div>
 <div class="row">
-  <div data-toggle="collapse" data-target="#ElementToExpandOnClick" class="panel-heading">
-    <div class="col-sm-12">
-        <section>
-        <h3>Core Skills</h3>
-        <a href="https://tinyurl.com/CoreRA2019" target="_blank"><img src="assets/img/skilltree/coreskilltree.png" alt="ra skill tree with essentials"></a>
-        <p>Above shown is the essential skills that every Ranger main should have. The breakdown on these skills:</p>
-    <hr>
-    </section>
-    </div>
-  </div>
+    <div class="panel-header collapsed" data-toggle="collapse" href="#collapseRecommend" aria-expanded="false" aria-controls="collapseRecommend">
+	<h2>Recommended Skills</h2>
+	</div>
+	<div class="collapse" id="collapseRecommend">
+		<div class="col-sm-12">
+		<section>
+		<h3>EX Trap</h3>
+		<p><b>Main class only</b></p>
+		<p>Improves all trap’s range, speed and effectiveness, and provides certain effects for Poison Trap and Upper Trap.</p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/kiUuPRI7gHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<hr>
+		</section>
+		</div>
+	</div>
 </div>

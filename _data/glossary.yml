@@ -1,3 +1,3 @@
 weakbullet:
-    <img src='assets/img/icons/weakbullet.png'><p>Loads 6 bullets.</p>
-
+ description: <img src='assets/img/icons/weakbullet.png'><p>Loads 6 bullets. Enemies marked by this bullet take more damage.</p>
+ value: 1.20
