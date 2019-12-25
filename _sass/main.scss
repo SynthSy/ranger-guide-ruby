@@ -34,6 +34,11 @@
     line-height: 1.4;
   }
   
+  .center {
+    margin: auto;
+	width: 50%;
+  }
+  
   hr {
     color: rgba(251, 249, 249, 0.431);
     border-top: 1px solid;
@@ -45,18 +50,21 @@
     padding: 15px 0 15px 0;
     font-size: large;
   }
-  
-.panel-header :after {
-    /* symbol for "opening" panels */
-    content: "+";    /* adjust as needed, taken from bootstrap.css */
-    float: left;        /* adjust as needed */
-    color: grey;         /* adjust as needed */
-}
+	.panel-header {
+		transition: .2s;
+		&:hover {
+		color: rgba(255,255,255,0.5);
+		}
+		& .fas {
+			transition: .2s transform ease-in-out;
+		}
+		&[aria-expanded="true"] {
+			& .fas {
+			transform: rotate(90deg);
+			}
+		}
+	}
 
-.panel-heading.collapsed:after {
-    /* symbol for "collapsed" panels */
-    content: "-";    /* adjust as needed, taken from bootstrap.css */
-}
 
   /* Links */
 

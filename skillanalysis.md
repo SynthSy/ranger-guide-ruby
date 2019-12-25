@@ -48,8 +48,8 @@ title: Skill Analysis
   </div>
 </div>
 <div class="row">
-    <div class="panel-header collapsed" data-toggle="collapse" href="#collapseRecommend" aria-expanded="false" aria-controls="collapseRecommend">
-	<h2>Recommended Skills</h2>
+    <div class="panel-header" data-toggle="collapse" href="#collapseRecommend" aria-expanded="false" aria-controls="collapseRecommend">
+	<h2><i class="fas fa-chevron-circle-right"></i>Recommended Skills</h2>
 	</div>
 	<div class="collapse" id="collapseRecommend">
 		<div class="col-sm-12">
@@ -57,9 +57,20 @@ title: Skill Analysis
 		<h3>EX Trap</h3>
 		<p><b>Main class only</b></p>
 		<p>Improves all trap’s range, speed and effectiveness, and provides certain effects for Poison Trap and Upper Trap.</p>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/kiUuPRI7gHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<div class="center">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/kiUuPRI7gHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+		<p>EX Trap effects:</p>
+			<ul>
+				<li>All trap’s AoE range increases.</li>
+				<li>Stun & Gravity Grenade’s animation sped up, throwing range & effectiveness improved.</li>
+				<li>Upper Trap’s damage boosted by ~2.47x (~2.058x without 1 SP into Tool Mastery).</li>
+				<li>Poison Trap applies a DoT which is ~1.563x of trap damage; not affected by Tool Mastery.</li>
+						</ul>
+			<p>A free skill learned upon reaching level 85, and one that helps Rangers regen PP much better.</p>
 		<hr>
 		</section>
 		</div>
 	</div>
 </div>
+<hr>
