@@ -32,7 +32,7 @@ title: Overview
                   </li>
               </ul>						
       </p>
-      <table class="table table-responsive table-bordered">
+      <table class="table table-responsive">
           <thead>
               <tr>
                   <th scope="col">&nbsp;</th>
@@ -67,7 +67,7 @@ title: Overview
       <h3>Photon Arts</h3>
       <p>This section will list a handful of relevant PAs on their placement as a Ranger.</p>
       <h4>Rifle Photon Arts</h4>
-      <table class="table table-responsive table-bordered">
+      <table class="table table-responsive">
           <thead>
               <tr>
                   <th scope="col">&nbsp;</th>
@@ -105,7 +105,7 @@ title: Overview
           </tbody>
       </table>
       <h4>Launcher Photon Arts</h4>
-      <table class="table table-responsive table-bordered">
+      <table class="table table-responsive">
           <thead>
               <tr>
                   <th scope="col">&nbsp;</th>

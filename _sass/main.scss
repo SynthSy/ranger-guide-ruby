@@ -196,12 +196,36 @@
   
   /* small screens */
   
-  @media (max-width: 768px) {
+ @media (max-width: 768px) {
     /* override stickyness so that the navigation does not follow scrolling */
     nav[data-toggle='toc'] {
       margin-bottom: 42px;
       position: static;
     }
+	
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+		border: none;
+	}
+	
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: none; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		float:left;
+		margin: auto;
+		width: auto;
+		padding: 0;
+	}
   
     .gearing-topics, .subclass-topics { 
       flex-direction: column;
@@ -231,7 +255,7 @@
     }
     */
   }
-  @media (max-width: 990px) {
+  @media (max-width: 992px) {
     .jumbotron {
       background-position: 0% 0%;
       background-attachment: fixed;

@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat&display=swap" rel="stylesheet">
