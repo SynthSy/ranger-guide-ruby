@@ -46,13 +46,13 @@ title: Skill Analysis
 	<h2><i class="fas fa-chevron-circle-right"></i>Recommended Skills</h2>
 	</div>
 	<div class="collapse" id="collapseRecommend">
-    <div class="row">
+    <div class="row recommended-skill-column">
           <div class="col-sm-12">
-              <div class="row skill-row">
-                <div class="col-md-1">
+              <div class="skill-row">
+                <div class="skill-title">
                   <img src="assets/img/icons/skilltree/ra/ex-trap.png">
                 </div>
-                <div class="col-md-4">
+                <div class="skill-title">
                   <h3><span>EX Trap</span></h3>
                 </div>
               </div>
@@ -69,49 +69,45 @@ title: Skill Analysis
                 <li>Poison Trap applies a DoT which is ~1.563x of trap damage; not affected by Tool Mastery.</li>
                     </ul>
               <p>A free skill learned upon reaching level 85, and one that helps Rangers regen PP much better. <a href="http://pso2.swiki.jp/index.php?%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC#EXtrap">JP Wiki Entry on EX Trap.</a></p>
-            <hr>
            </div>
           <div class="col-sm-12">
-              <div class="row skill-row">
-                <div class="col-md-1">
+              <div class="skill-row">
+                <div class="skill-title">
                   <img src="assets/img/icons/skilltree/ra/raremasteryranger.png">
                 </div>
-                <div class="col-md-4">
+                <div class="skill-title">
                   <h3><span>Rare Mastery Ranger</span></h3>
                 </div>
               </div>
             <p><b>Main class only</b></p>
             <p><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/">9/27/2017 adjustments</a></p>
             <p>A passive skill that grants a 10% damage bonus for wearing 10★+ weapons. The skill is automatically learned and maxed at level 1.</p>
-            <hr>
            </div>
           <div class="col-sm-12">
-              <div class="row skill-row">
-                <div class="col-md-1">
+              <div class="skill-row">
+                <div class="skill-title">
                   <img src="assets/img/icons/skilltree/ra/diveroll.png">
                 </div>
-                <div class="col-md-4">
+                <div class="skill-title">
                   <h3><span>Dive Roll</span></h3>
                 </div>
               </div>
             <p>Increases invincibility frames at the start of Dive Roll.</p>
             <p><b>0, 1 or 2 SP suggested.</b></p>
             <p>With the rise of Parallel Slider t-0 Dive Roll Advance isn’t necessary, but having points gives you room for avoiding attacks in a pinch. <br>Note that Dive Roll Advance is more preferred if not using Hunter subclass.</p>
-            <hr>
            </div>
            <div class="col-sm-12">
-              <div class="row skill-row">
-                <div class="col-md-1">
+              <div class="skill-row">
+                <div class="skill-title">
                   <img src="assets/img/icons/skilltree/ra/diverolladvance.png">
                 </div>
-                <div class="col-md-4">
+                <div class="skill-title">
                   <h3><span>Dive Roll</span></h3>
                 </div>
               </div>
             <p>Increases invincibility frames at the start of Dive Roll.</p>
             <p><b>0, 1 or 2 SP suggested.</b></p>
             <p>With the rise of Parallel Slider t-0 Dive Roll Advance isn’t necessary, but having points gives you room for avoiding attacks in a pinch. <br>Note that Dive Roll Advance is more preferred if not using Hunter subclass.</p>
-            <hr>
            </div>
       </div>
     </div>
