@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Photon Arts
+my_images: /img/
 ---
-<h1>Photon Arts</h1>
+<h1 class="mt-2">Photon Arts</h1>
 <section class="row">
 	<div class="col-12">
 		<h3>Suggested Photon Arts</h3>
@@ -17,7 +18,7 @@ title: Photon Arts
 		<p>
 			Type-0 refers to crafting PA disks accessible through the My Room terminal, which can be done at any level:
 		</p>
-		<div class="row">
+		<div class="row pb-3">
 			<div class="col-6">
 				<img alt="room-terminal" src="https://puu.sh/AeI9a.png">
 			</div>
@@ -28,7 +29,7 @@ title: Photon Arts
 		<p>
 			They are also purchasable through the Player Shops, through the Visiphone:
 		</p>
-		<div class="row">
+		<div class="row pb-3">
 			<div class="col-6">
 				<img alt="visiphone" src="https://puu.sh/BILRv.png">
 			</div>
@@ -46,37 +47,37 @@ title: Photon Arts
 		<h3>For Assault Rifles:</h3>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/satellitecannon.png" alt="satellite-cannon-icon" width="38px">&nbsp;Satellite Cannon
+				<img src="{{ page.my_images}}/icons/satellitecannon.png" alt="satellite-cannon-icon" width="38px">&nbsp;Satellite Cannon
 			</dt>
 			<dd class="col-sm-9">A PP-efficient boss killer, best used for when a boss is about to be stunned.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/endattract.png" alt="end-attract-icon" width="38px">&nbsp;End Attract
+				<img src="{{ page.my_images}}/icons/endattract.png" alt="end-attract-icon" width="38px">&nbsp;End Attract
 			</dt>
 			<dd class="col-sm-9">Your main boss killer, used to burst down bosses as it hits numerous times. Has 2 charge levels.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/endattract.png" alt="end-attract-icon" width="38px">&nbsp;End Attract
+				<img src="{{ page.my_images}}/icons/endattract.png" alt="end-attract-icon" width="38px">&nbsp;End Attract
 			</dt>
 			<dd class="col-sm-9">Your main boss killer, used to burst down bosses as it hits numerous times. Has 2 charge levels.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/parallelslider.png" alt="parallel-slider-icon" width="38px">&nbsp;Parallel Slider Type-0
+				<img src="{{ page.my_images}}/icons/parallelslider.png" alt="parallel-slider-icon" width="38px">&nbsp;Parallel Slider Type-0
 			</dt>
 			<dd class="col-sm-9">Used for avoiding attacks (the start-up has invincibility frames), and kiting/chasing fast moving targets.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/impactslider.png" alt="impact-slider-icon" width="38px">&nbsp;Impact Slider
+				<img src="{{ page.my_images}}/icons/impactslider.png" alt="impact-slider-icon" width="38px">&nbsp;Impact Slider
 			</dt>
 			<dd class="col-sm-9">A gap-closer that’s highly spammable and deals surprisingly good damage; the ending kick should be canceled immediately as it deals pitiful damage.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/impactslider.png" alt="impact-slider-icon" width="38px">&nbsp;Piercing Shell
+				<img src="{{ page.my_images}}/icons/impactslider.png" alt="impact-slider-icon" width="38px">&nbsp;Piercing Shell
 			</dt>
 			<dd class="col-sm-9">Fast filler DPS on stationary targets when you’re 2+ dive rolls away; must be used in the air for best effect.</dd>
 		</dl>
@@ -87,31 +88,31 @@ title: Photon Arts
 		<h3>For Launchers:</h3>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/divinelauncher.png" alt="divine-launcher-icon" width="38px">&nbsp;Divine Launcher Type-0
+				<img src="{{ page.my_images}}/icons/divinelauncher.png" alt="divine-launcher-icon" width="38px">&nbsp;Divine Launcher Type-0
 			</dt>
 			<dd class="col-sm-9">Your main AoE PA, demolishes anything caught within its huge blast radius.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/rodeodrive.png" alt="rodeo-drive-icon" width="38px">&nbsp;Rodeo Drive Type-0
+				<img src="{{ page.my_images}}/icons/rodeodrive.png" alt="rodeo-drive-icon" width="38px">&nbsp;Rodeo Drive Type-0
 			</dt>
 			<dd class="col-sm-9">Primarily used to travel long distances.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/cosmosbreaker.png" alt="cosmos-breaker-icon" width="38px">&nbsp;Cosmos Breaker
+				<img src="{{ page.my_images}}/icons/cosmosbreaker.png" alt="cosmos-breaker-icon" width="38px">&nbsp;Cosmos Breaker
 			</dt>
 			<dd class="col-sm-9">Used to keep dangerous targets hit-stunned; highly spammable at close range and aimed at the ground.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/sphereeraser.png" alt="sphere-eraser-icon" width="38px">&nbsp;Sphere Eraser
+				<img src="{{ page.my_images}}/icons/sphereeraser.png" alt="sphere-eraser-icon" width="38px">&nbsp;Sphere Eraser
 			</dt>
 			<dd class="col-sm-9">Clears lines of enemies, mostly used as a last resort on bosses.</dd>
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="{{ site.baseurl}}/_includes/img/icons/concentrateone.png" alt="concentrate-one-icon" width="38px">&nbsp;Concentrate One
+				<img src="{{ page.my_images}}/icons/concentrateone.png" alt="concentrate-one-icon" width="38px">&nbsp;Concentrate One
 			</dt>
 			<dd class="col-sm-9">A PP-efficient PA used to kill remaining mobs, or hitting precise weak spots.</dd>
 		</dl>
@@ -120,7 +121,7 @@ title: Photon Arts
 <section class="row">
 	<div class="col-12">
 		<p>All of these PAs can be purchased through the Player Shops (purple terminal). Some of these PAs are purchasable through the Photon Shop on the 2nd floor of the Shopping District.</p>
-		<p><a href="https://somethingaboutlagging.wordpress.com/ranger-gear/">Gearing up for those wanting to skip the PA section.</a>
+		<p><a href="#">Gearing up for those wanting to skip the PA section.</a></p>
 	</div>
 </section>
 <hr>
@@ -130,10 +131,10 @@ title: Photon Arts
 	</div>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/piercingshell.png" width="38px"> Piercing Shell</h3>
+			<h3><img src="{{ page.my_images}}/icons/piercingshell.png" width="38px"> Piercing Shell</h3>
 			<p>Your most basic projectile PA; fires a shot that pierces.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/embed/cvVFCFTzMdE?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/embed/cvVFCFTzMdE?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -150,10 +151,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/grenadeshell.png" width="38px"> Grenade Shell</h3>
+			<h3><img src="{{ page.my_images}}/icons/grenadeshell.png" width="38px"> Grenade Shell</h3>
 			<p>Shoots an explosive shell.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=S-pzJc05uHA?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=S-pzJc05uHA?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -174,10 +175,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/onepoint.png" width="38px"> One Point</h3>
+			<h3><img src="{{ page.my_images}}/icons/onepoint.png" width="38px"> One Point</h3>
 			<p>Fires a barrage of bullets onto the enemy.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=Af0wb4OOvv8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=Af0wb4OOvv8?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -193,10 +194,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/diffuseshell.png" width="38px"> Diffuse Shell</h3>
+			<h3><img src="{{ page.my_images}}/icons/diffuseshell.png" width="38px"> Diffuse Shell</h3>
 			<p>Fires a close ranged blast.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=efoDc4k7MK8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=efoDc4k7MK8?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -211,10 +212,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/homingemission.png" width="38px"> Homing Emission (and Type-0)</h3>
+			<h3><img src="{{ page.my_images}}/icons/homingemission.png" width="38px"> Homing Emission (and Type-0)</h3>
 			<p>Fires up to 6 homing projectiles onto enemies.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=9Rx6M2eGmk0?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=9Rx6M2eGmk0?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -229,10 +230,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/impactslider.png" width="38px"> Impact Slider</h3>
+			<h3><img src="{{ page.my_images}}/icons/impactslider.png" width="38px"> Impact Slider</h3>
 			<p>Slides towards the enemy with a barrage of shots.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=xWRb4SgE53E?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=xWRb4SgE53E?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -249,10 +250,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/sneakshooter.png" width="38px"> Sneak Shooter</h3>
+			<h3><img src="{{ page.my_images}}/icons/sneakshooter.png" width="38px"> Sneak Shooter</h3>
 			<p>Fires a crouched shot that travels fast.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=LFv9nCD8QU4?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=LFv9nCD8QU4?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -267,10 +268,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/gloriusrain.png" width="38px"> Glorious Rain</h3>
+			<h3><img src="{{ page.my_images}}/icons/gloriusrain.png" width="38px"> Glorious Rain</h3>
 			<p>Fires a hail of bullets that rain on your spot.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=qwKGRsEgYmk?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=qwKGRsEgYmk?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -284,10 +285,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/parallelslider.png" width="38px"> Parallel Slider</h3>
+			<h3><img src="{{ page.my_images}}/icons/parallelslider.png" width="38px"> Parallel Slider</h3>
 			<p>Performs a evasive maneuver while shooting bullets.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=K5ypajrNPY8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=K5ypajrNPY8?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -300,10 +301,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/parallelslider.png" width="38px"> Parallel Slider Type-0</h3>
+			<h3><img src="{{ page.my_images}}/icons/parallelslider.png" width="38px"> Parallel Slider Type-0</h3>
 			<p>When held, allows you to move while shooting bullets. Drains PP while held.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=oNkBb0IxvoY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=oNkBb0IxvoY?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -322,10 +323,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/satellitecannon.png" width="38px"> Satellite Cannon</h3>
+			<h3><img src="{{ page.my_images}}/icons/satellitecannon.png" width="38px"> Satellite Cannon</h3>
 			<p>When fully charged, launches a orbital strike at the indicated location.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=CvxOIZGi8og?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=CvxOIZGi8og?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -346,10 +347,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/endattract.png" width="38px"> End Attract</h3>
+			<h3><img src="{{ page.my_images}}/icons/endattract.png" width="38px"> End Attract</h3>
 			<p>When fully charged, fires off a massive bullet that can pierce through targets.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=N4nebXn2I0s?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=N4nebXn2I0s?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -370,11 +371,11 @@ title: Photon Arts
 	</div>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/divinelauncher.png" width="38px"> Divine Launcher (and Type-0)</h3>
+			<h3><img src="{{ page.my_images}}/icons/divinelauncher.png" width="38px"> Divine Launcher (and Type-0)</h3>
 			<p>Fires a shot capable of mass destruction.</p>
 			<p>Type-0 allows you to charge the shot for additional range & damage.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=fuLvWMd04OU?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=fuLvWMd04OU?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -386,7 +387,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/concentrateone.png" width="38px"> Concentrate One</h3>
+			<h3><img src="{{ page.my_images}}/icons/concentrateone.png" width="38px"> Concentrate One</h3>
 			<p>Fires 3 consecutive shots.</p>
 		</div>
 		<div class="col-12">
@@ -402,7 +403,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/clusterbullet.png" width="38px"> Cluster Bullet</h3>
+			<h3><img src="{{ page.my_images}}/icons/clusterbullet.png" width="38px"> Cluster Bullet</h3>
 			<p>Fires a overhead shot that detonates over a small area.</p>
 		</div>
 		<div class="col-12">
@@ -416,7 +417,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/crackerbullet.png" width="38px"> Cracker Bullet</h3>
+			<h3><img src="{{ page.my_images}}/icons/crackerbullet.png" width="38px"> Cracker Bullet</h3>
 			<p>Fires a shot that explodes numerous times.</p>
 		</div>
 		<div class="col-12">
@@ -424,7 +425,7 @@ title: Photon Arts
 			<p><strong><a href="https://www.bumped.org/psublog/episode-6-balance-adjustments/" target="_blank">4/24/2019 adjustments</a></strong></p>
 			<p class="text-left">
 				Cracker Bullet can stick onto enemies with decent damage, and can travel much further than most PAs thanks to the 
-				<a href="https://www.bumped.org/psublog/episode-6-balance-adjustments/" target="_blank">4/24/2019 adjustments</a></strong>. 
+				<a href="https://www.bumped.org/psublog/episode-6-balance-adjustments/" target="_blank">4/24/2019 adjustments</a>. 
 				The final hit does much more damage than the first 12 and has a good amount of hit stun. 
 				Paired with Cosmos Breaker it’s a deadly combination for up close damage.
 			</p>
@@ -432,7 +433,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/zerodistance.png" width="38px"> Zero Distance</h3>
+			<h3><img src="{{ page.my_images}}/icons/zerodistance.png" width="38px"> Zero Distance</h3>
 			<p>Points your Launcher towards an enemy for a point-blank shot.</p>
 		</div>
 		<div class="col-12">
@@ -449,7 +450,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/rodeodrive.png" width="38px"> Rodeo Drive</h3>
+			<h3><img src="{{ page.my_images}}/icons/rodeodrive.png" width="38px"> Rodeo Drive</h3>
 			<p>Blasts a shot inside your Launcher to move forward. Deals damage on contact.</p>
 		</div>
 		<div class="col-12">
@@ -461,7 +462,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/rodeodrive.png" width="38px"> Rodeo Drive Type-0</h3>
+			<h3><img src="{{ page.my_images}}/icons/rodeodrive.png" width="38px"> Rodeo Drive Type-0</h3>
 			<p>When held, allows you to ride your Launcher like a bike. Deals damage on contact.</p>
 		</div>
 		<div class="col-12">
@@ -474,7 +475,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/crazysmash.png" width="38px"> Crazy Smash</h3>
+			<h3><img src="{{ page.my_images}}/icons/crazysmash.png" width="38px"> Crazy Smash</h3>
 			<p>Swings your Launcher like a golf club to smash enemies away.</p>
 		</div>
 		<div class="col-12">
@@ -487,10 +488,10 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/fakesilhouette.png" width="38px"> Fake Silhouette</h3>
+			<h3><img src="{{ page.my_images}}/icons/fakesilhouette.png" width="38px"> Fake Silhouette</h3>
 			<p>Deploys a dummy that attracts enemies to it.</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=1m3o06mECh8?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=1m3o06mECh8?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="col-12">
@@ -505,7 +506,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/flamebullet.png" width="38px"> Flame Bullet</h3>
+			<h3><img src="{{ page.my_images}}/icons/flamebullet.png" width="38px"> Flame Bullet</h3>
 			<p>Turns your Launcher into a flamethrower.</p>
 		</div>
 		<div class="col-12">
@@ -520,7 +521,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/cosmosbreaker.png" width="38px"> Cosmos Breaker</h3>
+			<h3><img src="{{ page.my_images}}/icons/cosmosbreaker.png" width="38px"> Cosmos Breaker</h3>
 			<p>Fires a slow-moving projectile that detonates shortly after.</p>
 		</div>
 		<div class="col-12">
@@ -537,7 +538,7 @@ title: Photon Arts
 	</article>
 	<article>
 		<div class="col-12">
-			<h3><img src="{{ site.baseurl}}/_includes/img/icons/sphereeraser.png" width="38px"> Sphere Eraser</h3>
+			<h3><img src="{{ page.my_images}}/icons/sphereeraser.png" width="38px"> Sphere Eraser</h3>
 			<p>
 				When held, fires a laser cannon that pierces through enemies.
 			</p>
@@ -556,9 +557,10 @@ title: Photon Arts
 				<a href="https://www.youtube.com/channel/UCRctaO9Z2H3-Tg29Hmr55mw" target="_blank">PONTHI999</a> demonstrates using Sphere Eraser on spawning enemies (at 0:45):
 			</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=ZKE23p6I8hM?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent&amp;modestbranding=1" allowfullscreen="true" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585"></iframe>
+				<iframe class="embed-responsive-item" type="text/html" src="https://www.youtube.com/watch?v=ZKE23p6I8hM?controls=0&rel=0&fs=1&iv_load_policy=2&modestbranding=1" style="border: 0px; display: block; margin: 0px; width: 1040px; height: 585px;" data-ratio="0.5625" data-width="1040" data-height="585" allowfullscreen></iframe>
 			</div>
 		</div>
 	</article>
-	<p><a href="#">Gearing up</a>
+	<p><a href="#">Gearing up</a></p>
 </section>
+<hr>
