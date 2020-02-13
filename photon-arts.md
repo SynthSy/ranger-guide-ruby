@@ -132,7 +132,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/piercingshell.png" width="38px"> Piercing Shell</h3>
 			<p>Your most basic projectile PA; fires a shot that pierces.</p>
-			{% youtube "https://www.youtube.com/embed/cvVFCFTzMdE" %}
+			{% include youtube="https://www.youtube.com/embed/cvVFCFTzMdE" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -150,7 +150,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/grenadeshell.png" width="38px"> Grenade Shell</h3>
 			<p>Shoots an explosive shell.</p>
-			{% youtube "https://www.youtube.com/watch?v=S-pzJc05uHA" %}
+			{% include youtube="https://www.youtube.com/watch?v=S-pzJc05uHA" %}
 		</div>
 		<div class="col-12">
 			<p>Rating: <b>2/5</b></p>
@@ -172,7 +172,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/onepoint.png" width="38px"> One Point</h3>
 			<p>Fires a barrage of bullets onto the enemy.</p>
-			{% youtube "https://www.youtube.com/watch?v=Af0wb4OOvv8" %}
+			{% include youtube="https://www.youtube.com/watch?v=Af0wb4OOvv8" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -189,7 +189,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/diffuseshell.png" width="38px"> Diffuse Shell</h3>
 			<p>Fires a close ranged blast.</p>
-			{% youtube "https://www.youtube.com/watch?v=efoDc4k7MK8" %}
+			{% include youtube="https://www.youtube.com/watch?v=efoDc4k7MK8" %}
 		</div>
 		<div class="col-12">
 			<p>Rating: <b>3.5/5</b></p>
@@ -205,7 +205,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/homingemission.png" width="38px"> Homing Emission (and Type-0)</h3>
 			<p>Fires up to 6 homing projectiles onto enemies.</p>
-			{% youtube "https://www.youtube.com/watch?v=9Rx6M2eGmk0" %}
+			{% include youtube="https://www.youtube.com/watch?v=9Rx6M2eGmk0" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -221,7 +221,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/impactslider.png" width="38px"> Impact Slider</h3>
 			<p>Slides towards the enemy with a barrage of shots.</p>
-			{% youtube "https://www.youtube.com/watch?v=xWRb4SgE53E" %}
+			{% include youtube="https://www.youtube.com/watch?v=xWRb4SgE53E" %}
 		</div>
 		<div class="col-12">
 			<p>Rating: <b>4/5</b></p>
@@ -239,7 +239,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/sneakshooter.png" width="38px"> Sneak Shooter</h3>
 			<p>Fires a crouched shot that travels fast.</p>
-			{% youtube "https://www.youtube.com/watch?v=LFv9nCD8QU4" %}
+			{% include youtube="https://www.youtube.com/watch?v=LFv9nCD8QU4" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -255,7 +255,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/gloriusrain.png" width="38px"> Glorious Rain</h3>
 			<p>Fires a hail of bullets that rain on your spot.</p>
-			{% youtube "https://www.youtube.com/watch?v=qwKGRsEgYmk" %}
+			{% include youtube="https://www.youtube.com/watch?v=qwKGRsEgYmk" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -270,7 +270,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/parallelslider.png" width="38px"> Parallel Slider</h3>
 			<p>Performs a evasive maneuver while shooting bullets.</p>
-			{% youtube "https://www.youtube.com/watch?v=K5ypajrNPY8" %}
+			{% include youtube="https://www.youtube.com/watch?v=K5ypajrNPY8" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -284,7 +284,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/parallelslider.png" width="38px"> Parallel Slider Type-0</h3>
 			<p>When held, allows you to move while shooting bullets. Drains PP while held.</p>
-			{% youtube "https://www.youtube.com/watch?v=oNkBb0IxvoY" %}
+			{% include youtube="https://www.youtube.com/watch?v=oNkBb0IxvoY" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -304,7 +304,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/satellitecannon.png" width="38px"> Satellite Cannon</h3>
 			<p>When fully charged, launches a orbital strike at the indicated location.</p>
-			{% youtube "https://www.youtube.com/watch?v=CvxOIZGi8og" %}
+			{% include youtube="https://www.youtube.com/watch?v=CvxOIZGi8og" %}
 		</div>
 		<div class="col-12">
 			<p><strong><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017 adjustments</a></strong></p>
@@ -326,7 +326,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/endattract.png" width="38px"> End Attract</h3>
 			<p>When fully charged, fires off a massive bullet that can pierce through targets.</p>
-			{% youtube "https://www.youtube.com/watch?v=N4nebXn2I0s" %}
+			{% include youtube="https://www.youtube.com/watch?v=N4nebXn2I0s" %}
 		</div>
 		<div class="col-12">
 			<p>Rating: <b>5/5</b></p>
@@ -349,7 +349,7 @@ title: Photon Arts
 			<h3><img src="{% include img %}/icons/divinelauncher.png" width="38px"> Divine Launcher (and Type-0)</h3>
 			<p>Fires a shot capable of mass destruction.</p>
 			<p>Type-0 allows you to charge the shot for additional range & damage.</p>
-			{% youtube "https://www.youtube.com/watch?v=fuLvWMd04OU" %}
+			{% include youtube="https://www.youtube.com/watch?v=fuLvWMd04OU" %}
 		</div>
 		<div class="col-12">
 			<p>Rating: <b>5/5</b></p>
@@ -463,7 +463,7 @@ title: Photon Arts
 		<div class="col-12">
 			<h3><img src="{% include img %}/icons/fakesilhouette.png" width="38px"> Fake Silhouette</h3>
 			<p>Deploys a dummy that attracts enemies to it.</p>
-			{% youtube "https://www.youtube.com/watch?v=1m3o06mECh8" %}
+			{% include youtube="https://www.youtube.com/watch?v=1m3o06mECh8" %}
 		</div>
 		<div class="col-12">
 			<p>Rating: <b>2/5</b></p>
@@ -527,7 +527,7 @@ title: Photon Arts
 			<p>
 				<a href="https://www.youtube.com/channel/UCRctaO9Z2H3-Tg29Hmr55mw" target="_blank">PONTHI999</a> demonstrates using Sphere Eraser on spawning enemies (at 0:45):
 			</p>
-			{% youtube "https://www.youtube.com/watch?v=ZKE23p6I8hM" %}
+			{% include youtube="https://www.youtube.com/watch?v=ZKE23p6I8hM" %}
 		</div>
 	</article>
 	<p><a href="#">Gearing up</a></p>
