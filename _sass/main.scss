@@ -2,6 +2,7 @@
 
   a, a:hover {
       transition: 0.2s;
+	  text-decoration: none;
     }
   
 
@@ -29,15 +30,41 @@
   /* Body */
   
   body {
-    font-family: "Montserrat", sans-serif;
-    line-height: 1.4;
+    font-family: "Lato", sans-serif;
+    line-height: 1.6;
+  }
+  
+  .center {
+    margin: auto;
+	width: 50%;
   }
   
   hr {
     color: rgba(251, 249, 249, 0.431);
-    border-top: 1px solid
+    border-top: 1px solid;
   }
   
+  .blockquote {
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 5px;
+    padding: 15px 0 15px 0;
+    font-size: large;
+  }
+	.panel-header {
+		transition: .2s;
+		&:hover {
+		color: rgba(255,255,255,0.5);
+		}
+		& .fas {
+			transition: .2s transform ease-in-out;
+		}
+		&[aria-expanded="true"] {
+			& .fas {
+			transform: rotate(90deg);
+			}
+		}
+	}
+
 
   /* Links */
 
@@ -50,7 +77,8 @@
   /* Headings */
   
   h1, h2, h3, h4, h5 {
-    font-family: "Roboto Slab", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
   }
   
   nav[data-toggle='toc'] {
@@ -59,54 +87,77 @@
   
   /* Rows */
   
-  .gearing-row {
+  .gearing-row, .subclass-row {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  
-  .subclass-row {
+   
+  .skill-row {
     display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
+    margin-bottom: 1vh;
   }
-  
   
   /* Columns */
+  .recommended-skill-column {
+   & > .col-sm-12 {
+     padding-bottom: 3em;
+   }
+  }
   
   .gearing-topics, .subclass-topics { 
     flex-direction: row;
   }
   
-  .gearing-topics > h2 {
-    border-left: 5px solid #bd255f;
-    padding-left: 5px;
-    font-size: 1.5rem;
+  .gearing-topics {
+    & > h2 {
+      border-left: 5px solid #bd255f;
+      padding-left: 5px;
+      font-size: 1.5rem;
+    }
   }
   
-  .subclass-topics > h2 {
-    font-size: 1.5rem;
+  .subclass-topics {
+    & > h2 {
+      font-size: 1.5rem;
+    }
+      & > a > img {
+        max-width: 100%;
+        max-height: 100%;
+    }
   }
-  
-  .subclass-topics > h2 > a > img {
-    max-width: 100%;
-    max-height: 100%;
+
+  .skill-title {
+    & > h3 {
+      & > span {
+       border-bottom: 5px solid #3d5fce;
+      }
+       padding-left: 10px;
+    }
+    & > img {
+      max-width: 100%;
+      max-height: 100%;
+    }
   }
-  
+
   /* Sections */
   
   section {
     display: block;
-  }
-  
-  section > h1 {
-    border-left: 10px solid #3d5fce;
-    padding-left: 5px;
-    font-size: 1.5rem;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
+    & > h1 {
+      border-left: 8px solid #3d5fce;
+      padding-left: 5px;
+      font-size: 1.5rem;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+    }
+    & > h2, h3 {
+      border-left: 8px solid #3d5fce;
+      padding-left: 5px;
+      font-size: 1.5rem;
+    }
   }
   
   /* Jumbotron */
@@ -145,12 +196,36 @@
   
   /* small screens */
   
-  @media (max-width: 768px) {
+ @media (max-width: 768px) {
     /* override stickyness so that the navigation does not follow scrolling */
     nav[data-toggle='toc'] {
       margin-bottom: 42px;
       position: static;
     }
+	
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+		border: none;
+	}
+	
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: none; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		float:left;
+		margin: auto;
+		width: auto;
+		padding: 0;
+	}
   
     .gearing-topics, .subclass-topics { 
       flex-direction: column;
@@ -180,7 +255,7 @@
     }
     */
   }
-  @media (max-width: 990px) {
+  @media (max-width: 992px) {
     .jumbotron {
       background-position: 0% 0%;
       background-attachment: fixed;
