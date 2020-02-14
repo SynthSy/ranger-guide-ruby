@@ -19,7 +19,7 @@
 								{% if sublink.name == 'separator' %}
 									<li role="separator" class="divider"></li>
 								{% else %}
-									<li>
+									<li class="pl-1">
 										<a href="{{ site.baseurl }}{{ sublink.link }}">{{ sublink.name }}</a>
 									</li>
 								{% endif %}
@@ -27,7 +27,7 @@
 						</ul>
 					</li>
 				{% else %}
-					<li class="pr-1 {{ class }}">
+					<li class="pr-3 {{ class }}">
 						<a href="{{ site.baseurl }}{{ item.link }}">{{ item.name }}</a>
 					</li>
 				{% endif %}

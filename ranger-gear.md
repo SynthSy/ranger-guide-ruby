@@ -3,11 +3,7 @@ layout: default
 title: Gearing Up
 ---
 <h1 class="mt-2" data-toc-skip>Gearing Up</h1>
-<div class="row" data-spy="scroll" data-target="#toc">
-	<section class="col-3">
-		<h3 data-toc-skip>Table of Contents</h2>
-		<nav id="toc" data-toggle="toc" class="sticky-top"></nav>
-	</section>
+<div class="row">
 	<section class="col-9">
 		<article class="pb-2">
 			<h3 data-toc-skip>Ranger Gearing</h3>
