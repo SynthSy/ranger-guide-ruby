@@ -4,21 +4,34 @@
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarNavDropdown">
-		<ul class="navbar-nav">
-		  {% for item in site.data.navigation %}
-			<li {% if page.url == item.link %}
-				  class="nav-item active"
-				{% else %}
-				  class="nav-item"
-				{% endif %}>
-			  <a href="{{ site.baseurl }}{{ item.link }}" class="nav-link">
-				{{ item.name }}
-				{% if page.url == item.link %}
-				 <span class="sr-only">(current)</span>
+		<ul class="nav navbar-nav">
+			{% assign item = site.data.navigation %}
+			{% for item in items %}
+				{% assign class = nil %}
+				{% if page.url contains item.link %}
+					{% assign class = 'active' %}
 				{% endif %}
-			  </a>
-			</li>
-		  {% endfor %}
+				{% if item.sublinks %}
+					<li class="dropdown {{ class }}">
+						<a href="{{ site.baseurl }}{{ item.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ item.name }} <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							{% for sublink in item.sublinks %}
+								{% if sublink.name == 'separator' %}
+									<li role="separator" class="divider"></li>
+								{% else %}
+									<li>
+										<a href="{{ site.baseurl }}{{ sublink.link }}">{{ sublink.name }}</a>
+									</li>
+								{% endif %}
+							{% endfor %}
+						</ul>
+					</li>
+				{% else %}
+					<li class="{{ class }}">
+						<a href="{{ site.baseurl }}{{ item.link }}">{{ item.name }}</a>
+					</li>
+				{% endif %}
+			{% endfor %}
 		</ul>
 	</div>
 </nav>

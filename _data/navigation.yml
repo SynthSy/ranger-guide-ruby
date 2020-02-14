@@ -6,3 +6,10 @@
   link: /skillanalysis.html
 - name: Photon Arts
   link: /photon-arts.html
+- name: Gameplay Videos
+  link: /gameplay-videos.html
+  sublinks:
+    - name: Solo
+      link: /solo-videos.html
+    - name: Multi-party/Group
+      link: /mpa-group-videos.html
