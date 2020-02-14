@@ -27,7 +27,7 @@
 						</ul>
 					</li>
 				{% else %}
-					<li class="{{ class }}">
+					<li class="pr-1 {{ class }}">
 						<a href="{{ site.baseurl }}{{ item.link }}">{{ item.name }}</a>
 					</li>
 				{% endif %}
