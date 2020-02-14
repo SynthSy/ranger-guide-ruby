@@ -70,7 +70,7 @@ title: Photon Arts
 		</dl>
 		<dl class="row">
 			<dt class="col-sm-3">
-				<img src="assets/img/icons/UIPhotonArtPiecingShell.png" alt="piercing-shell-icon" width="38px">&nbsp;Piercing Shell
+				<img src="assets/img/icons/UIPhotonArtPiercingShell.png" alt="piercing-shell-icon" width="38px">&nbsp;Piercing Shell
 			</dt>
 			<dd class="col-sm-9">Fast filler DPS on stationary targets when you’re 2+ dive rolls away; must be used in the air for best effect.</dd>
 		</dl>
@@ -122,7 +122,7 @@ title: Photon Arts
 	<div class="col-12">
 		<h1>Assault Rifle PAs</h1>
 	</div>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtPiercingShell.png" width="38px"> Piercing Shell</h3>
 			<p>Your most basic projectile PA; fires a shot that pierces.</p>
@@ -140,7 +140,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtGrenadeShell.png" width="38px"> Grenade Shell</h3>
 			<p>Shoots an explosive shell.</p>
@@ -162,7 +162,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtOnePoint.png" width="38px"> One Point</h3>
 			<p>Fires a barrage of bullets onto the enemy.</p>
@@ -179,7 +179,7 @@ title: Photon Arts
 			<p>One Point shines much better on bosses that are moving too fast, which would make it ideal over using Satellite Cannon and End Attract.</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtDiffuseShell.png" width="38px"> Diffuse Shell</h3>
 			<p>Fires a close ranged blast.</p>
@@ -195,7 +195,7 @@ title: Photon Arts
 			<p><strong><a href="https://www.bumped.org/psublog/episode-6-balance-adjustments/" target="_blank">4/24/2019 adjustments</a></strong>: Aerial Diffuse Shell can now activate Standing Snipe, but is still awkward to use in most cases.</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtHomingEmission.png" width="38px"> Homing Emission (and Type-0)</h3>
 			<p>Fires up to 6 homing projectiles onto enemies.</p>
@@ -211,7 +211,7 @@ title: Photon Arts
 			<p>Type-0 turns Homing Emission into a PP dump on bosses with narrow hitboxes. A showcase of HE0’s time-to-kill against other rifle PAs can be found <a href="https://www.youtube.com/watch?v=zxruPkNz81M" target="_blank">here</a>.</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtImpactSlider.png" width="38px"> Impact Slider</h3>
 			<p>Slides towards the enemy with a barrage of shots.</p>
@@ -229,7 +229,7 @@ title: Photon Arts
 			<a href="https://www.bumped.org/psublog/episode-6-balance-adjustments/" target="_blank">4/24/2019</a>, and in <a href="https://www.bumped.org/psublog/july-10th-2019-balance-adjustments/" target="_blank">07/10/2019</a>.</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtSneakShooter.png" width="38px"> Sneak Shooter</h3>
 			<p>Fires a crouched shot that travels fast.</p>
@@ -245,9 +245,9 @@ title: Photon Arts
 			<p><a href="http://bumped.org/psublog/sept-27th-2017-balance-changes/" target="_blank">9/27/2017</a> and <a href="https://www.bumped.org/psublog/july-10th-2019-balance-adjustments/" target="_blank">07/10/2019</a> adjustments buffs Sneak Shooter’s damage.</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
-			<h3><img src="assets/img/icons/UIPhotonArtGloriusRain.png" width="38px"> Glorious Rain</h3>
+			<h3><img src="assets/img/icons/UIPhotonArtGloriousRain.png" width="38px"> Glorious Rain</h3>
 			<p>Fires a hail of bullets that rain on your spot.</p>
 			{% include youtube.html youtube_id="qwKGRsEgYmk" %}
 		</div>
@@ -260,7 +260,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtParallelSlider.png" width="38px"> Parallel Slider</h3>
 			<p>Performs a evasive maneuver while shooting bullets.</p>
@@ -274,7 +274,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtParallelSlider.png" width="38px"> Parallel Slider Type-0</h3>
 			<p>When held, allows you to move while shooting bullets. Drains PP while held.</p>
@@ -294,7 +294,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtSatelliteCannon.png" width="38px"> Satellite Cannon</h3>
 			<p>When fully charged, launches a orbital strike at the indicated location.</p>
@@ -316,7 +316,7 @@ title: Photon Arts
 			<p>If a boss won’t allow you to charge Satellite Cannon, the alternative is to use…</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtEndAttract.png" width="38px"> End Attract</h3>
 			<p>When fully charged, fires off a massive bullet that can pierce through targets.</p>
@@ -338,7 +338,7 @@ title: Photon Arts
 	<div class="col-12">
 		<h1>Launcher PAs</h1>
 	</div>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtDivineLauncher.png" width="38px"> Divine Launcher (and Type-0)</h3>
 			<p>Fires a shot capable of mass destruction.</p>
@@ -352,7 +352,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtConcentrateOne.png" width="38px"> Concentrate One</h3>
 			<p>Fires 3 consecutive shots.</p>
@@ -368,7 +368,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtClusterBullet.png" width="38px"> Cluster Bullet</h3>
 			<p>Fires a overhead shot that detonates over a small area.</p>
@@ -382,7 +382,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtCrackerBullet.png" width="38px"> Cracker Bullet</h3>
 			<p>Fires a shot that explodes numerous times.</p>
@@ -398,7 +398,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtZeroDistance.png" width="38px"> Zero Distance</h3>
 			<p>Points your Launcher towards an enemy for a point-blank shot.</p>
@@ -415,7 +415,7 @@ title: Photon Arts
 			<p><a href="https://www.bumped.org/psublog/july-10th-2019-balance-adjustments/" target="_blank">07/10/2019 adjustments</a> adds super armor upon activation, making it safer to use.</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtRodeoDrive.png" width="38px"> Rodeo Drive</h3>
 			<p>Blasts a shot inside your Launcher to move forward. Deals damage on contact.</p>
@@ -427,7 +427,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtRodeoDrive.png" width="38px"> Rodeo Drive Type-0</h3>
 			<p>When held, allows you to ride your Launcher like a bike. Deals damage on contact.</p>
@@ -440,7 +440,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtCrazySmash.png" width="38px"> Crazy Smash</h3>
 			<p>Swings your Launcher like a golf club to smash enemies away.</p>
@@ -453,7 +453,7 @@ title: Photon Arts
 			<p><a href="https://www.bumped.org/psublog/july-10th-2019-balance-adjustments/" target="_blank">07/10/2019 adjustments</a> adds super armor upon activation, making it safer to use.</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtFakeSilhouette.png" width="38px"> Fake Silhouette</h3>
 			<p>Deploys a dummy that attracts enemies to it.</p>
@@ -469,7 +469,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtFlameBullet.png" width="38px"> Flame Bullet</h3>
 			<p>Turns your Launcher into a flamethrower.</p>
@@ -484,7 +484,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtCosmosBreaker.png" width="38px"> Cosmos Breaker</h3>
 			<p>Fires a slow-moving projectile that detonates shortly after.</p>
@@ -501,7 +501,7 @@ title: Photon Arts
 			</p>
 		</div>
 	</article>
-	<article>
+	<article class="pb-2">
 		<div class="col-12">
 			<h3><img src="assets/img/icons/UIPhotonArtSphereEraser.png" width="38px"> Sphere Eraser</h3>
 			<p>
