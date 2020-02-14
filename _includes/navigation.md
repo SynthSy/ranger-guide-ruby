@@ -5,7 +5,7 @@
 	</button>
 	<div class="collapse navbar-collapse" id="navbarNavDropdown">
 		<ul class="nav navbar-nav">
-			{% assign item = site.data.navigation %}
+			{% assign items = site.data.navigation %}
 			{% for item in items %}
 				{% assign class = nil %}
 				{% if page.url contains item.link %}
