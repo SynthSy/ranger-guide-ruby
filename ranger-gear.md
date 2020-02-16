@@ -537,7 +537,72 @@ title: Gearing Up
 						<p>
 							Schvelle is essentially a Lightstream copy series, but with some minor loss in stats. 
 							However they do support new S6, S7 and S7 slots (one per unit). 
-							For a list of available S-class abilities on units, <a class="text-warning" href="https://www.bumped.org/psublog/episode-5-s-class-abilities/s-class-ability-database/" target="_blank"><strong>refer to the list here.</strong></a>.
+							For a list of available S-class abilities on units, <a class="text-warning" 
+							href="https://www.bumped.org/psublog/episode-5-s-class-abilities/s-class-ability-database/" target="_blank"><strong>refer to the list here.</strong></a>
+						</p>
+					</div>
+				</div>
+				
+				<div class="media mt-3">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemnovelfull.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-uiitemnovelone.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-uiitemnovelmass.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar13.png"> Novel Set</h5>
+						<p>
+							<strong>
+								Drops from Ultimate Quest: Ship Infiltration: Large Enemy Battleship<br>
+								Novel Arm & Novel Leg obtainable as a title reward from clearing and/or S-rank UQ.
+							</strong>
+						</p>
+						<p>
+							Novel set is similar to Schvelle’s set, but offers more HP instead of ATK. 
+							Additionally, this unit also supports S-class abilities (S6, S7, S8), 
+							allowing some quality of life abilities such as 4 PP regeneration when stationary. 
+						</p>
+						<p>
+							For a list of available S-class abilities on units, <a class="text-warning" 
+							href="https://www.bumped.org/psublog/episode-5-s-class-abilities/s-class-ability-database/" target="_blank"><strong>refer to the list here.</strong></a>
+						</p>
+					</div>
+				</div>
+				
+				<div class="media mt-3">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/uiitemliberatefull.png" width="64px"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/uiitemliberatemass.png" width="64px"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/uiitemliberateone.png" width="64px"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar13.png"> Liberate Set</h5>
+						<p>
+							<strong>
+								Novel upgrade at Zieg.
+							</strong>
+						</p>
+						<p>
+							Trades in the HP and DEF for more ATK and PP compared to Liberate. 
+							Though with stats looking more in line with Schvelle and Lightstream overall 
+							without additional bonuses such as elemental resistances, its really only there 
+							for the <strong>+75 ATK.</strong>
 						</p>
 					</div>
 				</div>
