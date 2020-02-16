@@ -396,6 +396,27 @@ title: Gearing Up
 						</div>
 					</div>
 				</div>
+				
+				<div class="media">
+					<table>
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizaneshi.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-thunderizaneshikiicon.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizanetsuchi.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar12.png"> Izane Set</h5>
+						<p><strong>Drops from Level 71+ Thunder Izaneshi only.</strong></p>
+						<p>
+							An insane set that has insane % defenses and <strong>+150 HP per piece (+450 HP total)</strong>, 
+							but provides no PP. Usable still, though outclassed by the <strong>Novel</strong> series.
+						</p>
+					</div>
+				</div>
+				
 			</div>
 		</article>
 	</section>
