@@ -274,8 +274,8 @@ title: Gearing Up
 					</div>
 				</div>
 			</div>
+			<p class="h4">Level 50-75 (Middle-tier)</p>
 			<div id="middle-tier" class="card-deck mb-1">
-				<p class="h4">Level 50-75 (Middle-tier)</p>
 				<div class="card text-white bg-primary-dark">
 					<table width="" class="mt-3 ml-3">
 						<tbody>
@@ -288,6 +288,22 @@ title: Gearing Up
 					</table>
 					<div class="card-body">
 						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
+						<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
+						<p class="card-text"><strong>Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</strong></p>
+					</div>
+				</div>
+				<div class="card text-white bg-primary-dark">
+					<table width="" class="mt-3 ml-3">
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="card-body">
+						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Stellar Wall</h5>
 						<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
 						<p class="card-text bold">Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</p>
 					</div>
