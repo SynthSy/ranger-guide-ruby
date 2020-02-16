@@ -4,7 +4,7 @@ title: Gearing Up
 ---
 <h1 class="mt-2" data-toc-skip>Gearing Up</h1>
 <div class="row">
-	<section class="col-9">
+	<section class="col-12">
 		<article class="pb-2">
 			<h3 data-toc-skip>Ranger Gearing</h3>
 			<h4 data-toc-skip>Is critical chance useful?</h4>
@@ -48,9 +48,8 @@ title: Gearing Up
 				A standard Ranger mag has +200 R-ATK, as shown below:
 			</p>
 			<img src="assets/img/page-img/pso2_2017-09-14_16-55-33.png" class="img-fluid" alt="mag info">
-			<p class="pt-1 pb-1">
-				To quote Nishikawak's advice on efficient feeding for mags:
-				<blockquote class="blockquote">
+			<p class="pt-2 pb-1">
+				<blockquote class="blockquote text-right">
 					<p class="mb-0">
 						Start off by feeding your mag two 9* weapons of the ATK-type 
 						(Ex: weapons with red background for S-ATK) you would want to level along with one 8★ 
@@ -61,6 +60,7 @@ title: Gearing Up
 						This will give you the maximum of ATK and ensure you never gain a level of DEX. 
 						<strong>(Furniture can be bought at the My Room Shop Attendant in back of the Shop Area or in player shops)</strong>
 					</p>
+					<footer class="blockquote-footer">Nishikawa's advice on <cite title="Source Title">Efficient Feeding for Mags</cite></footer>
 				</blockquote>
 				As for Photon Blast choices, the only viable choices are Ketos Proi for its fast PP regeneration, 
 				or Julius Nykta to help clear mobs via super suction effect.
@@ -246,5 +246,11 @@ title: Gearing Up
 				</dd>
 			</dl>
 		</article>
+		<article class="pb-2">
+			<h3>Weapons</h3>
+			<p><a class="text-warning" href="/weapons.html">Weapons are now on a separate section due to the amount of space it’s taking up!</a></p>
+		</article>
+	</section>
+	<section>
 	</section>
 </div>
