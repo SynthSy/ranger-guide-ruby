@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Gearing Up
+last_update: 01/01/1978
 ---
 <h1 class="mt-2" data-toc-skip>Gearing Up</h1>
+<small>Last updated on {{ page.last_update }}</small>
+
 <div class="row">
 	<section class="col-12">
 		<article class="pb-2">
