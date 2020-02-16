@@ -607,12 +607,7 @@ title: Gearing Up
 					</div>
 				</div>
 				
-				{% include unittemplate.md 
-				unit_image="<tr><td><img src="assets/img/page-img/uiitemliberatefull.png" width="64px"></td></tr><tr><td><img src="assets/img/page-img/uiitemliberatemass.png" width="64px"></td></tr><tr><td><img src="assets/img/page-img/uiitemliberateone.png" width="64px"></td>"
-				rarity="13"
-				unit_drop="Novel upgrade at Zieg."
-				unit_info="Trades in the HP and DEF for more ATK and PP compared to Liberate. Though with stats looking more in line with Schvelle and Lightstream overall without additional bonuses such as elemental resistances, its really only there for the <strong>+75 ATK.</strong>"
-				%}
+				{% include unittemplate.md unit_image="<tr><td><img src="assets/img/page-img/uiitemliberatefull.png" width="64px"></td></tr><tr><td><img src="assets/img/page-img/uiitemliberatemass.png" width="64px"></td></tr><tr><td><img src="assets/img/page-img/uiitemliberateone.png" width="64px"></td>"	rarity="13" unit_drop="Novel upgrade at Zieg." unit_info="Trades in the HP and DEF for more ATK and PP compared to Liberate. Though with stats looking more in line with Schvelle and Lightstream overall without additional bonuses such as elemental resistances, its really only there for the <strong>+75 ATK.</strong>" %}
 			</div>
 		</article>
 	</section>
