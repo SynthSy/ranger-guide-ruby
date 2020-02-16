@@ -257,7 +257,7 @@ title: Gearing Up
 				These are recommendations for Ranger units and does not cover every possible unit.
 			</p>
 			<div class="card-group">
-				<div class="card text-white bg-primary">
+				<div class="card text-white bg-primary-dark">
 					<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">&nbsp;
 						<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">&nbsp;
 						<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">
