@@ -5,7 +5,7 @@ last_update: 01/10/2020
 ---
 <h1 class="mt-2">Weapons</h1>
 <div class="list-group">
-	<a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+	<a href="#" class="list-group-item bg-primary-dark list-group-item-action flex-column align-items-start active">
 		<p class="mb-1"><b>In every game you must upgrade your weapon for it to be strong! A +0 grind level, 20 element weapon isn’t going to do anything for you!</b></p>
 		<small>Last updated on {{ page.last_update }}</small>
 	</a>
