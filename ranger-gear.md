@@ -8,7 +8,7 @@ title: Gearing Up
 		<article class="pb-2">
 			<h3 data-toc-skip>Ranger Gearing</h3>
 			<h4 data-toc-skip>Is critical chance useful?</h4>
-			<p class="bold">Credit goes to an anonymous reader for elaborating some points about critical chance.</p>
+			<p class="font-weight-bold">Credit goes to an anonymous reader for elaborating some points about critical chance.</p>
 			<p>
 				Yes and no. Weapons have a damage variance where you deal damage within a set range (95-97% is the minimum).
 			</p>
@@ -87,7 +87,7 @@ title: Gearing Up
 				As for what to put on, here’s some possible suggestions:
 			</p>
 			<div class="table-responsive">
-				<p class="bold">Affixes</p>
+				<p class="font-weight-bold">Affixes</p>
 				<table class="table table-striped">
 					<tbody>
 						<tr>
@@ -145,13 +145,13 @@ title: Gearing Up
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/nonweakbonus.png" width="38px" alt="L/L. Non Weak Bonus"> L/L Non Weak Bonus</dt>
 				<dd class="col-sm-9">
 					<p>When using Launchers, Weak Hit Advance applies on non-weak areas equal to the ring’s level.</p>
-					<p class="bold">At +20, this ring makes it so Weak Hit Advance applies 100% on non-weak areas and makes Launchers overpowered, get it.</p>
+					<p class="font-weight-bold">At +20, this ring makes it so Weak Hit Advance applies 100% on non-weak areas and makes Launchers overpowered, get it.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/pweakbullet.png" width="38px" alt="L/P. Weak Bullet"> L/P Weak Bullet</dt>
 				<dd class="col-sm-9">
 					<p>Fired Weak Bullets becomes a hit-scan instead of a projectile.</p>
-					<p class="bold">A great quality of life ring; makes it so Weak Bullet can’t miss (and goes through walls) when you’re locked onto an enemy.</p>
+					<p class="font-weight-bold">A great quality of life ring; makes it so Weak Bullet can’t miss (and goes through walls) when you’re locked onto an enemy.</p>
 				</dd>
 			</dl>
 			<h4 id="recommended" class="pt-1">Recommended</h4>
@@ -159,13 +159,13 @@ title: Gearing Up
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/pkeepershoot.png" width="38px" alt="R/P Keeper Shoot"> R/P Keeper Shoot</dt>
 				<dd class="col-sm-9">
 					<p>Grants a damage boost if your HP is above a certain threshold based on the ring’s level.</p>
-					<p class="bold">Nice 3% damage boost for Ranger.</p>
+					<p class="font-weight-bold">Nice 3% damage boost for Ranger.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/weakhitppgain.png" width="38px" alt="L/P. Weak Bullet"> R/Weak Hit PP Gain</dt>
 				<dd class="col-sm-9">
 					<p>Grants a bonus to PP gain when hitting weak spots based on the ring’s level.</p>
-					<p class="bold">A decent quality of life ring, helps with PP regen while spamming Dive Roll Shoot.<br>
+					<p class="font-weight-bold">A decent quality of life ring, helps with PP regen while spamming Dive Roll Shoot.<br>
 					Needs +20 grind for best effect (+20% additional PP gained from weak hits).</p>
 					<p>Does not apply on <strong>spots marked by Weak Bullet.</strong></p>
 				</dd>
@@ -173,13 +173,13 @@ title: Gearing Up
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/atomizerlovers.png" width="38px" alt="L/ Atomizer Lovers"> L/ Atomizer Lovers</dt>
 				<dd class="col-sm-9">
 					<p>Speeds up animation speed of Atomizer-based items while increasing their healing effectiveness.</p>
-					<p class="bold">A great quality of life ring; spend less time throwing out a Moon/Star/Sol Atomizer while being completely invincible during the animation.</p>
+					<p class="font-weight-bold">A great quality of life ring; spend less time throwing out a Moon/Star/Sol Atomizer while being completely invincible during the animation.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/jumpingdodge.png" width="38px" alt="L/Jumping Dodge"> L/Jumping Dodge</dt>
 				<dd class="col-sm-9">
 					<p>Grants a usable ability that makes you jump straight up. Has 0.5s of i-frames while jumping.</p>
-					<p class="bold">Great ring to have for avoiding damage; needs to be +20 for best effect.</p>
+					<p class="font-weight-bold">Great ring to have for avoiding damage; needs to be +20 for best effect.</p>
 				</dd>
 			</dl>
 			<h4 id="niche" class="pt-1">Situational/Niche</h4>
@@ -187,7 +187,7 @@ title: Gearing Up
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemcstrikeshoot.png" width="38px" alt="R/C Strike Shoot"> R/C Strike Shoot</dt>
 				<dd class="col-sm-9">
 					<p>Increases critical chance and critical damage for ranged damage.</p>
-					<p class="bold">Best paired with S4:Pursing Eclipse if you’re looking for a +100% critical chance set-up.</p>
+					<p class="font-weight-bold">Best paired with S4:Pursing Eclipse if you’re looking for a +100% critical chance set-up.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/42px-uiitemeffortsymbolra.png" width="38px" alt="R/Effort Symbol Ra"> R/Effort Symbol Ra</dt>
@@ -195,43 +195,43 @@ title: Gearing Up
 					<p>Increases damage and Critical Hit Rate by a little while reducing damage taken.<br>
 					Displays a visual effect in Quests. (<a href="https://pso2.arks-visiphone.com/wiki/Skill_Rings" target="_blank">Arks Visiphone</a>)
 					</p>
-					<p class="bold">Only use if you don’t want to use the suggested rings above.</p>
+					<p class="font-weight-bold">Only use if you don’t want to use the suggested rings above.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemhprestorate.png" width="38px" alt="R/HP Restorate"> R/HP Restorate</dt>
 				<dd class="col-sm-9">
 					<p>Heals over time (7.50% of HP at +20) when your HP falls below a certain percentage. (100% at +20)</p>
-					<p class="bold">Mainly used if you’re not using Hunter subclass.</p>
+					<p class="font-weight-bold">Mainly used if you’re not using Hunter subclass.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemtechartsjapps.png" width="38px"> R/Tech Arts JAPPS</dt>
 				<dd class="col-sm-9">
 					<p>When alternating PAs with JAs, grants a PP cost reduction.</p>
-					<p class="bold">Great ring for conserving PP, but you do have traps to restore PP so not needed.</p>
+					<p class="font-weight-bold">Great ring for conserving PP, but you do have traps to restore PP so not needed.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemppconvert.png" width="38px"> R/PP Convert</dt>
 				<dd class="col-sm-9">
 					<p>Grants the Techer’s active skill, PP Convert, which temporary decreases your max HP for increased PP regen.</p>
-					<p class="bold">Great ring for regenerating PP, but you do have traps to restore PP so not needed.</p>
+					<p class="font-weight-bold">Great ring for regenerating PP, but you do have traps to restore PP so not needed.</p>
 				</dd>
 
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemmassivehunter.png" width="38px"> R/Massive Hunter</dt>
 				<dd class="col-sm-9">
 					<p>Grants the Hunter’s skill, Massive Hunter, which makes you immune to knockback and reduces damage taken.</p>
-					<p class="bold">Only use if your subclass is not Hunter.</p>
+					<p class="font-weight-bold">Only use if your subclass is not Hunter.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemslowdiveroll.png" width="38px"> L/Slow Dive Ring</dt>
 				<dd class="col-sm-9">
 					<p>Slows down your dive roll in exchange for increased i-frames based on the ring’s level.</p>
-					<p class="bold">Only use this if you have issues surviving; hurts your mobility otherwise.</p>
+					<p class="font-weight-bold">Only use this if you have issues surviving; hurts your mobility otherwise.</p>
 				</dd>
 				
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemstandingsign.png" width="38px"> L/Standing Sign</dt>
 				<dd class="col-sm-9">
 					<p>Shows a sign if Standing Snipe is activated.</p>
-					<p class="bold">
+					<p class="font-weight-bold">
 						Only use this if you’re not familiar with Standing Snipe.<br>
 						More detailed information on Standing Snipe and how to best utilize it can be found in <a href="tips-tricks.html" target="_blank">Tips & Tricks.</a>
 					</p>
@@ -240,7 +240,7 @@ title: Gearing Up
 				<dt class="col-sm-3"><img src="assets/img/icons/rings/128px-uiitemalaunchermode-1.png" width="38px"> L/A Launcher Mode</dt>
 				<dd class="col-sm-9">
 					<p>Changes Launcher’s normal attacks.</p>
-					<p class="bold">The fixed ranged and projectile changes makes it difficult to use in most cases.</p>
+					<p class="font-weight-bold">The fixed ranged and projectile changes makes it difficult to use in most cases.</p>
 				</dd>
 			</dl>
 		</article>
@@ -334,7 +334,7 @@ title: Gearing Up
 					The only <img src="assets/img/icons/rarity/uistar11.png"> unit set that is somewhat usable is Austere, though it now has 
 					a <img src="assets/img/icons/rarity/uistar12.png"> upgrade.
 				</p>
-				<p class="bold">For ideas on what to use, here are some suggestions:</p>
+				<p class="font-weight-bold">For ideas on what to use, here are some suggestions:</p>
 				<div class="media">
 					<table class="align-self-center mr-3">
 						<tbody>
