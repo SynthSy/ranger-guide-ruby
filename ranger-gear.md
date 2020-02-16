@@ -87,11 +87,9 @@ title: Gearing Up
 				As for what to put on, here’s some possible suggestions:
 			</p>
 			<div class="table-responsive">
+				<p class="bold">Affixes</p>
 				<table class="table table-striped">
 					<tbody>
-						<tr>
-							<th style="text-align:center;" colspan="3">Affixes</th>
-						</tr>
 						<tr>
 							<th style="text-align:center;">Souls</th>
 							<th style="text-align:center;" colspan="2">HP, R-ATK, PP</th>
@@ -281,7 +279,7 @@ title: Gearing Up
 				</div>	
 				
 				<p id="middle-tier" class="h4 pt-2 ml-1">Level 50-75 (Middle-tier)</p>					
-				<div class="media mt-1">
+				<div class="media mt-3">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
@@ -306,7 +304,7 @@ title: Gearing Up
 					</div>
 				</div>	
 				
-				<div class="media mt-1">
+				<div class="media mt-3">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
@@ -363,7 +361,7 @@ title: Gearing Up
 					</div>
 				</div>	
 					
-				<div class="media mt-1">
+				<div class="media mt-3">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
@@ -383,7 +381,7 @@ title: Gearing Up
 					</div>
 				</div>
 									
-				<div class="media mt-1">
+				<div class="media mt-3">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
@@ -403,7 +401,7 @@ title: Gearing Up
 					</div>
 				</div>
 				
-				<div class="media mt-1">
+				<div class="media mt-3">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
@@ -421,7 +419,7 @@ title: Gearing Up
 					</div>
 				</div>
 				
-				<div class="media mt-1">
+				<div class="media mt-3">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
@@ -445,7 +443,7 @@ title: Gearing Up
 					</div>
 				</div>
 				
-				<div class="media mt-1">
+				<div class="media mt-3">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
@@ -467,6 +465,79 @@ title: Gearing Up
 							Pretty much a better <strong>Mask of Vain</strong> as it has higher S/R/T resistances and 
 							defenses only sacrificing 10pp when compared to it. 
 							The <img src="assets/img/icons/rarity/uistar13.png"> version supports S6 and has the same stats as Orgei.
+						</p>
+					</div>
+				</div>
+				
+				<div class="media mt-3">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemavionorb.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-uiitemaviondusk.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar13.png"> Avion Orb / Dusk</h5>
+						<p>
+							<strong>Drops from The Sixth Angel on Ultra Hard.</strong>
+						</p>
+						<p>
+							An alternative to Mask of Vain or Equdic; offers only <strong>20 HP and 60 ATK,</strong>  
+							but has a whopping <strong>23 PP.</strong> Overall defenses are the same tier as Lightstream or Phobos.
+						</p>
+					</div>
+				</div>
+				
+				<div class="media mt-3">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemavionorb.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-uiitemaviondusk.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar13.png"> Avion Orb / Dusk</h5>
+						<p>
+							<strong>Drops from The Sixth Angel on Ultra Hard.</strong>
+						</p>
+						<p>
+							An alternative to Mask of Vain or Equdic; offers only <strong>20 HP and 60 ATK,</strong>  
+							but has a whopping <strong>23 PP.</strong> Overall defenses are the same tier as Lightstream or Phobos.
+						</p>
+					</div>
+				</div>
+				
+				<div class="media mt-3">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemcleasiskibbs.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-uiitemcleasisret.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-uiitemcleasisserb.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar13.png"> Schvelle Set</h5>
+						<p>
+							<strong>Cleasis upgrade through Zieg’s shop. (Cleasis shown to the left)</strong>
+						</p>
+						<p>
+							Schvelle is essentially a Lightstream copy series, but with some minor loss in stats. 
+							However they do support new S6, S7 and S7 slots (one per unit). 
+							For a list of available S-class abilities on units, <a class="text-warning" href="https://www.bumped.org/psublog/episode-5-s-class-abilities/s-class-ability-database/" target="_blank"><strong>refer to the list here.</strong></a>.
 						</p>
 					</div>
 				</div>
