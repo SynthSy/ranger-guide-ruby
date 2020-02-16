@@ -4,7 +4,7 @@ title: Gearing Up
 ---
 <h1 class="mt-2" data-toc-skip>Gearing Up</h1>
 <div class="row">
-	<section class="col-12">
+	<section class="col-9">
 		<article class="pb-2">
 			<h3 data-toc-skip>Ranger Gearing</h3>
 			<h4 data-toc-skip>Is critical chance useful?</h4>
@@ -256,56 +256,60 @@ title: Gearing Up
 			<p>
 				These are recommendations for Ranger units and does not cover every possible unit.
 			</p>
-			<div id="entry-level" class="mb-1">
-				<p class="h4">Level 1-50 (Entry level)</p>
-				<div class="card text-white bg-primary-dark">
-					<table width="" class="mt-3 ml-3">
-						<tbody>
-							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-							</tr>
-						</tbody>
-					</table>
-					<div class="card-body">
-						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
-						<p class="card-text">Beginner’s unit set fit for every class. Gets quickly outdated at level 30+.</p>
+			<div class="row">
+				<div class="col-xs-6">
+					<div id="entry-level" class="mb-1">
+						<p class="h4">Level 1-50 (Entry level)</p>
+						<div class="card text-white bg-primary-dark">
+							<table width="" class="mt-3 ml-3">
+								<tbody>
+									<tr>
+										<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+									</tr>
+								</tbody>
+							</table>
+							<div class="card-body">
+								<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
+								<p class="card-text">Beginner’s unit set fit for every class. Gets quickly outdated at level 30+.</p>
+							</div>
+						</div>
 					</div>
-				</div>
-			</div>
-			<p class="h4">Level 50-75 (Middle-tier)</p>
-			<div id="middle-tier" class="card-deck mb-1">
-				<div class="card text-white bg-primary-dark">
-					<table width="" class="mt-3 ml-3">
-						<tbody>
-							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemkaiserelte.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-kaiserkaphteicon.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemsaihanisen.png"></td>
-							</tr>
-						</tbody>
-					</table>
-					<div class="card-body">
-						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
-						<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
-						<p class="card-text"><strong>Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</strong></p>
-					</div>
-				</div>
-				<div class="card text-white bg-primary-dark">
-					<table width="" class="mt-3 ml-3">
-						<tbody>
-							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-							</tr>
-						</tbody>
-					</table>
-					<div class="card-body">
-						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Stellar Wall</h5>
-						<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
-						<p class="card-text bold">Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</p>
+					<p class="h4 pt-2">Level 50-75 (Middle-tier)</p>
+					<div id="middle-tier" class="card-deck mb-1">
+						<div class="card text-white bg-primary-dark">
+							<table width="" class="mt-3 ml-3">
+								<tbody>
+									<tr>
+										<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemkaiserelte.png"></td>
+										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-kaiserkaphteicon.png"></td>
+										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemsaihanisen.png"></td>
+									</tr>
+								</tbody>
+							</table>
+							<div class="card-body">
+								<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
+								<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
+								<p class="card-text"><strong>Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</strong></p>
+							</div>
+						</div>
+						<div class="card text-white bg-primary-dark">
+							<table width="" class="mt-3 ml-3">
+								<tbody>
+									<tr>
+										<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+									</tr>
+								</tbody>
+							</table>
+							<div class="card-body">
+								<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Stellar Wall</h5>
+								<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
+								<p class="card-text bold">Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
