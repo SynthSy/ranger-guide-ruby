@@ -363,6 +363,8 @@ title: Gearing Up
 							</p>
 						</div>
 					</div>
+				</div>
+				<div class="card-deck">
 					<div class="card text-white bg-primary-dark">
 						<img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemallureaid1.png">
 						<div class="card-body">
