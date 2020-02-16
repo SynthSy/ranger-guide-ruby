@@ -258,9 +258,7 @@ title: Gearing Up
 			</p>
 			<div class="card-group">
 				<div class="card text-white bg-primary-dark">
-					<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">&nbsp;
-						<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">&nbsp;
-						<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">
+					<img class="card-img-top" style="width:64px!important" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">
 					<div class="card-body">
 						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
 						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
