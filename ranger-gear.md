@@ -312,7 +312,7 @@ title: Gearing Up
 					</div>
 				</div>
 				
-				<p class="h4 pt-2 ml-1">Level 75+ (Endgame tier)</p>
+				<p id="endgame-tier" class="h4 pt-2 ml-1">Level 75+ (Endgame tier)</p>
 				<p>
 					At this point, you use whatever <img src="assets/img/icons/rarity/uistar12.png"> or <img src="assets/img/icons/rarity/uistar13.png"> units that would 
 					best benefit you, as they all provide good individual bonuses. 
@@ -321,84 +321,89 @@ title: Gearing Up
 					a <img src="assets/img/icons/rarity/uistar12.png"> upgrade.
 				</p>
 				<p class="bold">For ideas on what to use, here are some suggestions:</p>
-				<div id="endgame-tier" class="card-deck mb-1">
-					<div class="card text-white bg-primary-dark">
-						<table class="mt-3 ml-3">
-							<tbody>
-								<tr>
-									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreammixion-1.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamluxion-1.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamdixion.png"></td>
-								</tr>
-							</tbody>
-						</table>
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Lightstream Xion Series</h5>
-							<p class="card-text"><strong>Obtained by upgrading a Celestial unit from DF: Persona EQ.</strong></p>
-							<p class="card-text">
-								Each piece provides <strong>+50 all ATK, +100 HP and +15 PP</strong>, making them highly desirable 
-								as they offer great all-around stats and defenses.								
-							</p>
-						</div>
+				
+				<div class="media">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreammixion-1.png"></td>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamluxion-1.png"></td>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamdixion.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar12.png"> Lightstream Xion Series</h5>
+						<p>
+							<strong>Obtained by upgrading a Celestial unit from DF: Persona EQ.</strong>
+						</p>
+						<p>
+							Each piece provides <strong>+50 all ATK, +100 HP and +15 PP</strong>, making them highly desirable 
+							as they offer great all-around stats and defenses.								
+						</p>
 					</div>
-					<div class="card text-white bg-primary-dark">
-						<img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemmaskofvain-2.png">
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Mask of Vain</h5>
-							<p class="card-text"><strong>Drops from Omega Masquerade only.</strong></p>
-							<p class="card-text">
-								It’s a much more similar Allure Aid in terms of stats, but on the rear unit. 
-								Offers <strong>+20 PP and +60 all ATK</strong> at the cost of no HP built-in.
-							</p>
-						</div>
-					</div>
-					<div class="card text-white bg-primary-dark">
-						<img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemrappyshine.png">
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Rappy Shine</h5>
-							<p class="card-text"><strong>Obtained from the Battle Arena shop.</strong></p>
-							<p class="card-text">
-								Boasting <strong>+777 HP</strong>, at the cost of offering 0 defenses, 
-								Rappy Shine is usable if you really need the HP padding.
-							</p>
-						</div>
+				</div>	
+					
+				<div class="media">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemmaskofvain-2.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar12.png"> Mask of Vain</h5>
+						<p>
+							<strong>Drops from Omega Masquerade only.</strong>
+						</p>
+						<p>
+							It’s a much more similar Allure Aid in terms of stats, but on the rear unit. 
+							Offers <strong>+20 PP and +60 all ATK</strong> at the cost of no HP built-in.
+						</p>
 					</div>
 				</div>
-				<div class="card-deck">
-					<div class="card text-white bg-primary-dark">
-						<img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemallureaid1.png">
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Allure Aid</h5>
-							<p class="card-text"><strong>Drops from Level 81+ Omega Appregina only.</strong></p>
-							<p class="card-text">
-								The main appeal to this single unit is it offers <strong>+17 PP and +85 R-ATK</strong> to your stats. 
-								Highly recommended to get one if you’re looking for purely offensive stats, but do note that it does not offer any HP.
-							</p>
-						</div>
-					</div>
-					<div class="card text-white bg-primary-dark">
-						<table class="mt-3 ml-3">
-							<tbody>
-								<tr>
-									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizaneshi.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-thunderizaneshikiicon.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizanetsuchi.png"></td>
-								</tr>
-							</tbody>
-						</table>
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Izane Set</h5>
-							<p class="card-text"><strong>Drops from Level 71+ Thunder Izaneshi only.</strong></p>
-							<p class="card-text">
-								An insane set that has insane % defenses and <strong>+150 HP per piece (+450 HP total)</strong>, 
-								but provides no PP. Usable still, though outclassed by the <strong>Novel</strong> series.
-							</p>
-						</div>
+									
+				<div class="media">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemrappyshine.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar12.png"> Rappy Shine</h5>
+						<p>
+							<strong>Obtained from the Battle Arena shop.</strong>
+						</p>
+						<p>
+							Boasting <strong>+777 HP</strong>, at the cost of offering 0 defenses, 
+							Rappy Shine is usable if you really need the HP padding.
+						</p>
 					</div>
 				</div>
 				
 				<div class="media">
-					<table>
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemallureaid1.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar12.png"> Allure Aid</h5>
+						<p><strong>Drops from Level 81+ Omega Appregina only.</strong></p>
+						<p>
+							The main appeal to this single unit is it offers <strong>+17 PP and +85 R-ATK</strong> to your stats. 
+							Highly recommended to get one if you’re looking for purely offensive stats, but do note that it does not offer any HP.
+						</p>
+					</div>
+				</div>
+				
+				<div class="media">
+					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
 								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizaneshi.png"></td>
