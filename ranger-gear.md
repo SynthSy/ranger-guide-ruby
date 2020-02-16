@@ -4,7 +4,7 @@ title: Gearing Up
 ---
 <h1 class="mt-2" data-toc-skip>Gearing Up</h1>
 <div class="row">
-	<section class="col-9">
+	<section class="col-12">
 		<article class="pb-2">
 			<h3 data-toc-skip>Ranger Gearing</h3>
 			<h4 data-toc-skip>Is critical chance useful?</h4>
@@ -256,59 +256,141 @@ title: Gearing Up
 			<p>
 				These are recommendations for Ranger units and does not cover every possible unit.
 			</p>
-			<div class="row">
-				<div class="col-xs-6">
-					<div id="entry-level" class="mb-1">
-						<p class="h4">Level 1-50 (Entry level)</p>
-						<div class="card text-white bg-primary-dark">
-							<table width="" class="mt-3 ml-3">
-								<tbody>
-									<tr>
-										<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-									</tr>
-								</tbody>
-							</table>
-							<div class="card-body">
-								<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
-								<p class="card-text">Beginner’s unit set fit for every class. Gets quickly outdated at level 30+.</p>
-							</div>
+			<div class="col-xs-6">
+				<div id="entry-level" class="mb-1">
+					<p class="h4 ml-1">Level 1-50 (Entry level)</p>
+					<div class="card text-white bg-primary-dark">
+						<table class="mt-3 ml-3">
+							<tbody>
+								<tr>
+									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
+							<p class="card-text">Beginner’s unit set fit for every class. Gets quickly outdated at level 30+.</p>
 						</div>
 					</div>
-					<p class="h4 pt-2">Level 50-75 (Middle-tier)</p>
-					<div id="middle-tier" class="card-deck mb-1">
-						<div class="card text-white bg-primary-dark">
-							<table width="" class="mt-3 ml-3">
-								<tbody>
-									<tr>
-										<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemkaiserelte.png"></td>
-										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-kaiserkaphteicon.png"></td>
-										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemsaihanisen.png"></td>
-									</tr>
-								</tbody>
-							</table>
-							<div class="card-body">
-								<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
-								<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
-								<p class="card-text"><strong>Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</strong></p>
-							</div>
+				</div>
+				
+				<p class="h4 pt-2 ml-1">Level 50-75 (Middle-tier)</p>
+				<div id="middle-tier" class="card-deck mb-1">
+					<div class="card text-white bg-primary-dark">
+						<table class="mt-3 ml-3">
+							<tbody>
+								<tr>
+									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemkaiserelte.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-kaiserkaphteicon.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemsaihanisen.png"></td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
+							<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
+							<p class="card-text"><strong>Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</strong></p>
 						</div>
-						<div class="card text-white bg-primary-dark">
-							<table width="" class="mt-3 ml-3">
-								<tbody>
-									<tr>
-										<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-										 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-									</tr>
-								</tbody>
-							</table>
-							<div class="card-body">
-								<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Stellar Wall</h5>
-								<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
-								<p class="card-text bold">Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</p>
-							</div>
+					</div>
+					<div class="card text-white bg-primary-dark">
+						<table class="mt-3 ml-3">
+							<tbody>
+								<tr>
+									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Stellar Wall</h5>
+							<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
+							<p class="card-text bold">Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</p>
+						</div>
+					</div>
+				</div>
+				
+				<p class="h4 pt-2 ml-1">Level 75+ (Endgame tier)</p>
+				<p>
+					At this point, you use whatever <img src="assets/img/icons/rarity/uistar12.png"> or <img src="assets/img/icons/rarity/uistar13.png"> units that would 
+					best benefit you, as they all provide good individual bonuses. 
+					<img src="assets/img/icons/rarity/uistar12.png"> / <img src="assets/img/icons/rarity/uistar13.png"> units do not come with a set. 
+					The only <img src="assets/img/icons/rarity/uistar11.png"> unit set that is somewhat usable is Austere, though it now has 
+					a <img src="assets/img/icons/rarity/uistar12.png"> upgrade.
+				</p>
+				<p class="bold">For ideas on what to use, here are some suggestions:</p>
+				<div id="endgame-tier" class="card-deck mb-1">
+					<div class="card text-white bg-primary-dark">
+						<table class="mt-3 ml-3">
+							<tbody>
+								<tr>
+									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreammixion-1.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamluxion-1.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamdixion.png"></td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Lightstream Xion Series</h5>
+							<p class="card-text"><strong>Obtained by upgrading a Celestial unit from DF: Persona EQ.</strong></p>
+							<p class="card-text">
+								Each piece provides <strong>+50 all ATK, +100 HP and +15 PP</strong>, making them highly desirable 
+								as they offer great all-around stats and defenses.								
+							</p>
+						</div>
+					</div>
+					<div class="card text-white bg-primary-dark">
+						<img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemmaskofvain-2.png">
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Mask of Vain</h5>
+							<p class="card-text"><strong>Drops from Omega Masquerade only.</strong></p>
+							<p class="card-text">
+								It’s a much more similar Allure Aid in terms of stats, but on the rear unit. 
+								Offers <strong>+20 PP and +60 all ATK</strong> at the cost of no HP built-in.
+							</p>
+						</div>
+					</div>
+					<div class="card text-white bg-primary-dark">
+						<img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemrappyshine.png">
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Rappy Shine</h5>
+							<p class="card-text"><strong>Obtained from the Battle Arena shop.</strong></p>
+							<p class="card-text">
+								Boasting <strong>+777 HP</strong>, at the cost of offering 0 defenses, 
+								Rappy Shine is usable if you really need the HP padding.
+							</p>
+						</div>
+					</div>
+					<div class="card text-white bg-primary-dark">
+						<img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemallureaid1.png">
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Allure Aid</h5>
+							<p class="card-text"><strong>Drops from Level 81+ Omega Appregina only.</strong></p>
+							<p class="card-text">
+								The main appeal to this single unit is it offers <strong>+17 PP and +85 R-ATK</strong> to your stats. 
+								Highly recommended to get one if you’re looking for purely offensive stats, but do note that it does not offer any HP.
+							</p>
+						</div>
+					</div>
+					<div class="card text-white bg-primary-dark">
+						<table class="mt-3 ml-3">
+							<tbody>
+								<tr>
+									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizaneshi.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-thunderizaneshikiicon.png"></td>
+									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizanetsuchi.png"></td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="card-body">
+							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar12.png"> Izane Set</h5>
+							<p class="card-text"><strong>Drops from Level 71+ Thunder Izaneshi only.</strong></p>
+							<p class="card-text">
+								An insane set that has insane % defenses and <strong>+150 HP per piece (+450 HP total)</strong>, 
+								but provides no PP. Usable still, though outclassed by the <strong>Novel</strong> series.
+							</p>
 						</div>
 					</div>
 				</div>
