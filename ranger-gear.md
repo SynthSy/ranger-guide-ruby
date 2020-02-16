@@ -256,14 +256,40 @@ title: Gearing Up
 			<p>
 				These are recommendations for Ranger units and does not cover every possible unit.
 			</p>
-			<div class="card-group">
+			<div id="entry-level" class="mb-1">
+				<p class="h4">Level 1-50 (Entry level)</p>
 				<div class="card text-white bg-primary-dark">
-					<img class="card-img-top card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">
-					<img class="card-img-top card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">
-					<img class="card-img-top card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">
+					<table width="" class="mt-3 ml-3">
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+							</tr>
+						</tbody>
+					</table>
 					<div class="card-body">
 						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
-						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+						<p class="card-text">Beginner’s unit set fit for every class. Gets quickly outdated at level 30+.</p>
+					</div>
+				</div>
+			</div>
+			<div id="middle-tier" class="card-deck mb-1">
+				<p class="h4">Level 50-75 (Middle-tier)</p>
+				<div class="card text-white bg-primary-dark">
+					<table width="" class="mt-3 ml-3">
+						<tbody>
+							<tr>
+								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemkaiserelte.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-kaiserkaphteicon.png"></td>
+								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemsaihanisen.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="card-body">
+						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
+						<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
+						<p class="card-text bold">Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</p>
 					</div>
 				</div>
 			</div>
