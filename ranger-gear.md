@@ -257,10 +257,10 @@ title: Gearing Up
 				These are recommendations for Ranger units and does not cover every possible unit.
 			</p>
 			<div class="card-group">
-				<div class="card" style="width: 18rem;">
-					<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png" width="64px">&nbsp;
-						<img class="card-img-top" src="64px-uiitemweaponsbarrier.png" width="64px">&nbsp;
-						<img class="card-img-top" src="64px-uiitemweaponsbarrier.png" width="64px">
+				<div class="card text-white bg-primary">
+					<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">&nbsp;
+						<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">&nbsp;
+						<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png">
 					<div class="card-body">
 						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
 						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
