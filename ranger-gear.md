@@ -250,7 +250,23 @@ title: Gearing Up
 			<h3>Weapons</h3>
 			<p><a class="text-warning" href="/weapons.html">Weapons are now on a separate section due to the amount of space it’s taking up!</a></p>
 		</article>
-	</section>
-	<section>
+		<article class="pb-2">
+			<h3 id="units">Units</h3>
+			<h4>What kind of units should I use at various levels?</h4>
+			<p>
+				These are recommendations for Ranger units and does not cover every possible unit.
+			</p>
+			<div class="card-group">
+				<div class="card" style="width: 18rem;">
+					<img class="card-img-top" src="assets/img/page-img/64px-uiitemweaponsbarrier.png" width="64px">&nbsp;
+						<img class="card-img-top" src="64px-uiitemweaponsbarrier.png" width="64px">&nbsp;
+						<img class="card-img-top" src="64px-uiitemweaponsbarrier.png" width="64px">
+					<div class="card-body">
+						<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+		</article>
 	</section>
 </div>
