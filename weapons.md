@@ -7,7 +7,7 @@ last_update: 01/10/2020
 <div class="card">
 	<div class="card-body">
 		<p class="card-text"><b>In every game you must upgrade your weapon for it to be strong! A +0 grind level, 20 element weapon isn’t going to do anything for you!</b></p>
-		<p class="card-text"><small class="text-muted">Last updated on {% page.last_update %}</small></p>
+		<p class="card-text"><small class="text-muted">Last updated on {{ page.last_update }}</small></p>
 	</div>
 </div>
 <section class="row">

@@ -506,7 +506,7 @@ title: Gearing Up
 					<div class="media-body">
 						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar13.png"> Avion Orb / Dusk</h5>
 						<p>
-							<strong>Drops from The Sixth Angel on Ultra Hard.</strong>
+							<strong>Trade from the Colbat Medal Shop.</strong>
 						</p>
 						<p>
 							An alternative to Mask of Vain or Equdic; offers only <strong>20 HP and 60 ATK,</strong>  
