@@ -257,60 +257,76 @@ title: Gearing Up
 				These are recommendations for Ranger units and does not cover every possible unit.
 			</p>
 			<div class="col-xs-6">
-				<div id="entry-level" class="mb-1">
-					<p class="h4 ml-1">Level 1-50 (Entry level)</p>
-					<div class="card text-white bg-primary-dark">
-						<table class="mt-3 ml-3">
-							<tbody>
-								<tr>
-									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
-								</tr>
-							</tbody>
-						</table>
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
-							<p class="card-text">Beginner’s unit set fit for every class. Gets quickly outdated at level 30+.</p>
-						</div>
+				<p id="entry-level" class="h4 ml-1">Level 1-50 (Entry level)</p>
+				<div class="media">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemweaponsbarrier.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar7.png"> Weapons Barrier</h5>
+						<p>
+							Beginner’s unit set fit for every class. Gets quickly outdated at level 30+.
+						</p>
 					</div>
-				</div>
+				</div>	
 				
-				<p class="h4 pt-2 ml-1">Level 50-75 (Middle-tier)</p>
-				<div id="middle-tier" class="card-deck mb-1">
-					<div class="card text-white bg-primary-dark">
-						<table class="mt-3 ml-3">
-							<tbody>
-								<tr>
-									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemkaiserelte.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-kaiserkaphteicon.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemsaihanisen.png"></td>
-								</tr>
-							</tbody>
-						</table>
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
-							<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
-							<p class="card-text"><strong>Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</strong></p>
-						</div>
+				<p id="middle-tier" class="h4 pt-2 ml-1">Level 50-75 (Middle-tier)</p>					
+				<div class="media mt-1">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemkaiserelte.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-kaiserkaphteicon.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemsaihanisen.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar11.png"> Kaiser Set + Saiha Leg</h5>
+						<p>
+							A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).
+						</p>
+						<p>
+							<strong>Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</strong>
+						</p>
 					</div>
-					<div class="card text-white bg-primary-dark">
-						<table class="mt-3 ml-3">
-							<tbody>
-								<tr>
-									<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-									 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
-								</tr>
-							</tbody>
-						</table>
-						<div class="card-body">
-							<h5 class="card-title"><img src="assets/img/icons/rarity/uistar11.png"> Stellar Wall</h5>
-							<p class="card-text">A great, balanced set that provides +150 HP (from Saiha leg), and +30 PP & +90 R-ATK (Kaiser Set).</p>
-							<p class="card-text bold">Do not craft these pieces, as it you will lose the hidden +150 HP and +30 PP stats.</p>
-						</div>
+				</div>	
+				
+				<div class="media mt-1">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemstellarwall.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar12.png"> Stellar Wall</h5>
+						<p>
+							A beginner’s <img src="assets/img/icons/rarity/uistar12.png"> set that comes from Title Rewards (Reach level 75 on any class).								
+						</p>
 					</div>
-				</div>
+				</div>	
 				
 				<p id="endgame-tier" class="h4 pt-2 ml-1">Level 75+ (Endgame tier)</p>
 				<p>
@@ -321,14 +337,17 @@ title: Gearing Up
 					a <img src="assets/img/icons/rarity/uistar12.png"> upgrade.
 				</p>
 				<p class="bold">For ideas on what to use, here are some suggestions:</p>
-				
 				<div class="media">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreammixion-1.png"></td>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamluxion-1.png"></td>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemlightstreamdixion.png"></td>
+								<td><img src="assets/img/page-img/64px-uiitemlightstreammixion-1.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemlightstreamluxion-1.png"></td>
+							</tr>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemlightstreamdixion.png"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -344,11 +363,11 @@ title: Gearing Up
 					</div>
 				</div>	
 					
-				<div class="media">
+				<div class="media mt-1">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemmaskofvain-2.png"></td>
+								<td><img src="assets/img/page-img/64px-uiitemmaskofvain-2.png"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -364,11 +383,11 @@ title: Gearing Up
 					</div>
 				</div>
 									
-				<div class="media">
+				<div class="media mt-1">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemrappyshine.png"></td>
+								<td><img src="assets/img/page-img/64px-uiitemrappyshine.png"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -384,11 +403,11 @@ title: Gearing Up
 					</div>
 				</div>
 				
-				<div class="media">
+				<div class="media mt-1">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemallureaid1.png"></td>
+								<td><img src="assets/img/page-img/64px-uiitemallureaid1.png"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -402,13 +421,17 @@ title: Gearing Up
 					</div>
 				</div>
 				
-				<div class="media">
+				<div class="media mt-1">
 					<table class="align-self-center mr-3">
 						<tbody>
 							<tr>
-								<td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizaneshi.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-thunderizaneshikiicon.png"></td>
-								 <td><img class="card-img-topmod3" src="assets/img/page-img/64px-uiitemthunderizanetsuchi.png"></td>
+								<td><img src="assets/img/page-img/64px-uiitemthunderizaneshi.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-thunderizaneshikiicon.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/64px-uiitemthunderizanetsuchi.png"></td>
 							</tr>
 						</tbody>
 					</table>
@@ -422,6 +445,31 @@ title: Gearing Up
 					</div>
 				</div>
 				
+				<div class="media mt-1">
+					<table class="align-self-center mr-3">
+						<tbody>
+							<tr>
+								<td><img src="assets/img/page-img/64px-uiitemorgeigrudge.png"></td>
+							</tr>
+							<tr>
+								 <td><img src="assets/img/page-img/uiitemequdicgrudge.png"></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="media-body">
+						<h5 class="mt-0"><img src="assets/img/icons/rarity/uistar12.png"> Orgei Grudge & <img src="assets/img/icons/rarity/uistar13.png"> Equdic Grudge</h5>
+						<p>
+							<strong>Drops from Nemes Ange in Armada of Demise (Orgei).<br>
+							Drops from Avar Nemesis in T: Scarlet Space Splitter (Equdic).</strong>
+						</p>
+						<p>
+							Best offensive rear in the game, offering <strong>90 ATK, 40 HP and 10 PP.</strong> 
+							Pretty much a better <strong>Mask of Vain</strong> as it has higher S/R/T resistances and 
+							defenses only sacrificing 10pp when compared to it. 
+							The <img src="assets/img/icons/rarity/uistar13.png"> version supports S6 and has the same stats as Orgei.
+						</p>
+					</div>
+				</div>
 			</div>
 		</article>
 	</section>
